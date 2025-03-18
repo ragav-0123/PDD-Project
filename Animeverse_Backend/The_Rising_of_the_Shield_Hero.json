@@ -1,0 +1,133 @@
+{
+    "anime_id": 27,
+    "anime_name": "The Rising of the Shield Hero",
+    "genres": "Adventure",
+    "total_episodes": 25,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "The Shield Hero",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 2,
+            "title": "The Slave Girl",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 3,
+            "title": "Wave of Catastrophe",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 4,
+            "title": "Lullaby at Dawn",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 5,
+            "title": "Filo",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 6,
+            "title": "A New Comrade",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 7,
+            "title": "The Savior of the Heavenly Fowl",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 8,
+            "title": "Curse Shield",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 9,
+            "title": "Melty",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 10,
+            "title": "In the Midst of Turmoil",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 11,
+            "title": "Catastrophe Returns",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 12,
+            "title": "The Raven Invader",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 13,
+            "title": "The Devil of the Shield",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 14,
+            "title": "Everlasting Memory",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 15,
+            "title": "Raphtalia",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 16,
+            "title": "Filolial Queen",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 17,
+            "title": "A Promise Made",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 18,
+            "title": "A Conspiracy Linked",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 19,
+            "title": "The Four Cardinal Heroes",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 20,
+            "title": "Battle of Good and Evil",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 21,
+            "title": "Battle of Good and Evil",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 22,
+            "title": "Four Heroes Council",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 23,
+            "title": "Cal Mira Archipelago",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 24,
+            "title": "Guardians of Another World",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 25,
+            "title": "The Rising of the Shield Hero",
+            "type": "cannon"
+    }
+    ]
+}

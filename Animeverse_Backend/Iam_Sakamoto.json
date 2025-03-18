@@ -1,0 +1,68 @@
+{
+    "anime_id": 32,
+    "anime_name": "Havent You Heard? I am Sakamoto",
+    "total_episodes": 12,
+    "genres": "Comedy",
+    "episodes":[
+        {
+            "episode_number": 1,
+            "title": "Sakamoto of Class 1-2",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 2,
+            "title": " I Want to Protect Rather Than Be Protected",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 3,
+            "title": "Sakamoto the Errand Boy; Hide-and-Seek of Love",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 4,
+            "title": "Is Sakamoto a Pervert?",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 5,
+            "title": "Throwing Softballs; Hayabusa-senpai the Charismatic Ruffian; Healthcare",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 6,
+            "title": "End-of-School Rules; Love via Camera; Cafeteria Marketing",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 7,
+            "title": "Sure Enough, is Sakamoto a Pervert?; Sera's French Revolution",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 8,
+            "title": "The Cultural Festival is Gloomy",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 9,
+            "title": "How Sakamoto and I Met; The Person Nearest and Farthest",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 10,
+            "title": "Demon King; That Which is Lacking",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 11,
+            "title": "No Need for Warmth; Memories of 1-2",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 12,
+            "title": "Goodbye, Sakamoto-kun",
+            "type": "cannon"
+        }
+    ]
+}

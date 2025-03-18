@@ -1,0 +1,269 @@
+{
+    "anime_id": 4,
+    "anime_name": "Overlord",
+    "total_episodes": 52,
+    "genres": "Drama",
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "End and Beginning",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 2,
+            "title": "Floor Guardians",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 3,
+            "title": "The Battle of Carne Village",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 4,
+            "title": "Ruler of Death",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 5,
+            "title": "Two Adventurers",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 6,
+            "title": "Journey",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 7,
+            "title": "Wise King of Forest",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 8,
+            "title": "Twin Swords of Slashing Death",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 9,
+            "title": "The Dark Warrior",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 10,
+            "title": "True Vampire",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 11,
+            "title": "Confusion and Understanding",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 12,
+            "title": "The Bloody Valkyrie",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 13,
+            "title": "Player vs Non Player Character",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 14,
+            "title": "The Dawn of Despair",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 15,
+            "title": "Departure",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 16,
+            "title": "Lizard Men, Gathering",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 17,
+            "title": "Army of Death",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 18,
+            "title": "The Freezing God",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 19,
+            "title": "Those Who Pick Up, Those Who Are Picked Up",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 20,
+            "title": "Blue Roses",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 21,
+            "title": "A Boy's Feeling",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 22,
+            "title": "Soaring Sparks of Fire",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 23,
+            "title": "Disturbance Begins in the Royal Capital",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 24,
+            "title": "Jaldabaoth",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 25,
+            "title": "The Final Battle of the Disturbance",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 26,
+            "title": "The Ultimate Trump Card",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 27,
+            "title": "A Ruler's Melancholy",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 28,
+            "title": "Carne Village Once More",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 29,
+            "title": "Enri's Upheaval and Hectic Days",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 30,
+            "title": "Giant of the East, Demon Snake of the West",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 31,
+            "title": "Two Leaders",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 32,
+            "title": "Invitation to Death",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 33,
+            "title": "Butterfly Entangled in a Spider's Web",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 34,
+            "title":"A Handful of Hope",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 35,
+            "title": "War of Words",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 36,
+            "title": "Preparations for War",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 37,
+            "title": "Another Battle",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 38,
+            "title": "Massacre",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 39,
+            "title": "PVP: Player vs Player",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 40,
+            "title": "Ainz Ooal Gown Nation of Leading Darkness",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 41,
+            "title": "Re-Estize Kingdom",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 42,
+            "title": "Baharuth Empire",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 43,
+            "title": "The Ruler of Conspiracy",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 44,
+            "title": "In Pursuit of the Land of Dwarves",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 45,
+            "title": "The Impending Crisis",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 46,
+            "title": "Frost Dragon Lord",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 47,
+            "title": "An Unexpected Move",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 48,
+            "title": "Countdown to Extinction",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 49,
+            "title": "The Last King",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 50,
+            "title": "Well-Prepared Traps",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 51,
+            "title": "Invasion of the Royal Capital",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 52,
+            "title": "The Witch of the Falling Kingdom",
+            "type": "cannon"
+        }
+
+    ]
+}

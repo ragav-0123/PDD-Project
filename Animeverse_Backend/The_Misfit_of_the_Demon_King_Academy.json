@@ -1,0 +1,193 @@
+{
+    "anime_id": 40,   
+    "anime_name": "The Misfit of the Demon King Academy",
+    "genres": "Fantasy",
+    "total_episodes": 37,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "The Misfit of Demon King Academy",
+            "type": "canon"
+          },
+          {
+            "episode_number": 2,
+            "title": "The Witch of Destruction",
+            "type": "canon"
+          },
+          {
+            "episode_number": 3,
+            "title": "Sasha's True Intentions",
+            "type": "canon"
+          },
+          {
+            "episode_number": 4,
+            "title": "15th Birthday",
+            "type": "canon"
+          },
+          {
+            "episode_number": 5,
+            "title": "The Transfer Student",
+            "type": "canon"
+          },
+          {
+            "episode_number": 6,
+            "title": "Magic Sword Tournament",
+            "type": "canon"
+          },
+          {
+            "episode_number": 7,
+            "title": "Mother's Words",
+            "type": "canon"
+          },
+          {
+            "episode_number": 8,
+            "title": "The Final Duel",
+            "type": "canon"
+          },
+          {
+            "episode_number": 9,
+            "title": "The Mystery of the Hero Academy",
+            "type": "canon"
+          },
+          {
+            "episode_number": 10,
+            "title": "Inter-Academy Exams",
+            "type": "canon"
+          },
+          {
+            "episode_number": 11,
+            "title": "The Glow of Life",
+            "type": "canon"
+          },
+          {
+            "episode_number": 12,
+            "title": "Taboo Magic",
+            "type": "canon"
+          },
+          {
+            "episode_number": 13,
+            "title": "May This World Be Full of Love",
+            "type": "canon"
+          },
+          {
+            "episode_number": 14,
+            "title": "A Lesson by God",
+            "type": "canon"
+          },
+          {
+            "episode_number": 15,
+            "title": "The Demon King's Duel of Intellect",
+            "type": "canon"
+          },
+          {
+            "episode_number": 16,
+            "title": "The Spirit's School Building",
+            "type": "canon"
+          },
+          {
+            "episode_number": 17,
+            "title": "The Spirit's Trial",
+            "type": "canon"
+          },
+          {
+            "episode_number": 18,
+            "title": "In Between Royalty and Mixed Blood",
+            "type": "canon"
+          },
+          {
+            "episode_number": 19,
+            "title": "The Great Spirit Mother and the Demon King's Right-Hand Man",
+            "type": "canon"
+          },
+          {
+            "episode_number": 20,
+            "title": "Like a Single Stroke of a Sword",
+            "type": "canon"
+          },
+          {
+            "episode_number": 21,
+            "title": "The Land of Demons Without a Demon King",
+            "type": "canon"
+          },
+          {
+            "episode_number": 22,
+            "title": "A Prayer For Two Thousand Years Later",
+            "type": "canon"
+          },
+          {
+            "episode_number": 23,
+            "title": "Send Hatred to the Past",
+            "type": "canon"
+          },
+          {
+            "episode_number": 24,
+            "title": "To Sever That Fate",
+            "type": "canon"
+          },
+          {
+            "episode_number": 25,
+            "title": "The Misfit",
+            "type": "canon"
+          },
+          {
+            "episode_number": 26,
+            "title": "Moon of Creation",
+            "type": "canon"
+          },
+          {
+            "episode_number": 27,
+            "title": "Goddess of selection",
+            "type": "canon"
+          },
+          {
+            "episode_number": 28,
+            "title": "Institute of the Gods",
+            "type": "canon"
+          },
+          {
+            "episode_number": 29,
+            "title": "Gathering Small Courages",
+            "type": "canon"
+          },
+          {
+            "episode_number": 30,
+            "title": "Battle of Pride",
+            "type": "canon"
+          },
+          {
+            "episode_number": 31,
+            "title": "Almighty Demon King",
+            "type": "canon"
+          },
+          {
+            "episode_number": 32,
+            "title": "The Great Demon King Drills",
+            "type": "canon"
+          },
+          {
+            "episode_number": 33,
+            "title": "Kingdom of the Dragon God",
+            "type": "canon"
+          },
+          {
+            "episode_number": 34,
+            "title": "Demon King Hymn No. 6 Neighbors",
+            "type": "canon"
+          },
+          {
+            "episode_number": 35,
+            "title": "Liebarschend, the God of Vestiges",
+            "type": "canon"
+          },
+          {
+            "episode_number": 36,
+            "title": "The Promise Made in a Dream",
+            "type": "canon"
+          },
+          {
+            "episode_number": 37,
+            "title": " The Dream That God Saw",
+            "type": "canon"
+          }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "anime_id": 15,
+    "anime_name": "Konosuba: Gods Blessing on This Wonderful World!",
+    "total_episodes": 20,
+    "genres": "Comedy",
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "This Self Proclaimed Goddess and Reincarnation in Another World!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 2,
+            "title": "An Explosion for This Chuunibyo!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 3,
+            "title": "A Panty Treasure in This Right Hand!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 4,
+            "title": "Explosion Magic for This Formidable Enemy!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 5,
+            "title": "A Price for This Cursed Sword!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 6,
+            "title": "A Conclusion to This Worthless Fight!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 7,
+            "title": "A Second Death in This Freezing Season!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 8,
+            "title": "A Loving Hand for Our Party When We Can't Make It Through Winter!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 9,
+            "title": "God's Blessing on This Wonderful Shop!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 10,
+            "title": "Final Flame for This Over-the-top Fortress!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 11,
+            "title": "Give Me Deliverance from this Judicial Injustice!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 12,
+            "title": "A Friend for This Crimson Girl",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 13,
+            "title": "Peace for the Master of This Labyrinth!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 14,
+            "title": "A Betrothed for This Noble Daughter!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 15,
+            "title": "Servitude for This Masked Knight!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 16,
+            "title": "Goodbye to This Irritating Living World!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 17,
+            "title": "An Invitation for This Knucklehead!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 18,
+            "title": "Sightseeing in This Pitiful City!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 19,
+            "title": "A Goddess for This Corrupt Hot Springs Town!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 20,
+            "title": "God's Blessings on This Wonderful Party!",
+            "type": "cannon"
+        }
+    ]
+        
+}

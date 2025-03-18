@@ -1,0 +1,68 @@
+{
+    "anime_name": "Barakamon",
+    "anime_id": 12,
+    "genres": "Comedy",
+    "total_episodes": 12,
+    "episodes":[
+        {
+            "episode_number": 1,
+            "title": "Barakakodon (Sprited Child)",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 2,
+            "title": "Annoying",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 3,
+            "title": "Hitonmochi (Rice Cakes Thrown in Celebrations)",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 4,
+            "title": "Island Dads",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 5,
+            "title": "Going Swimming at the Beach",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 6,
+            "title": "Guys from Tokyo",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 7,
+            "title": "A High-Grade Fish",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 8,
+            "title": "Buddhist Chanting Dance",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 9,
+            "title": "Okega Makucchishita (Was Almost Seriously Injured)",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 10,
+            "title": "Dacchi Ikode (Let's Go Together)",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 11,
+            "title": "I Am in Tokyo",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 12,
+            "title": "Happy New Home",
+            "type": "cannon"
+        }
+    ]
+}

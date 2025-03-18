@@ -1,0 +1,298 @@
+{
+    "anime_id": 24,
+    "anime_name": "Dr.Stone",
+    "genres": "Adventure",
+    "total_episodes": 58,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "Stone World",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 2,
+            "title": "King of the Stone World",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 3,
+            "title": "Weapons of Science",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 4,
+            "title": "Fire the Smoke Signal",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 5,
+            "title": "Stone World The Beginning",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 6,
+            "title": "Two Nations of the Stone World",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 7,
+            "title": "Where Two Million Years Have Gone",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 8,
+            "title": "Stone Road",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 9,
+            "title": "Let There Be the Light of Science",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 10,
+            "title": "A Tenuous Alliance",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 11,
+            "title": "Clear World",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 12,
+            "title": "Buddies Back to Back",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 13,
+            "title": "Masked Warrior",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 14,
+            "title": "Master of Flame",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 15,
+            "title": "The Culmination of Two Million Years",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 16,
+            "title": "A Tale for the Ages",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 17,
+            "title": "A Hundred Nights and a Thousand Skys",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 18,
+            "title": "Stone Wars",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 19,
+            "title": "To Modernity",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 20,
+            "title": "The Age of Energy",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 21,
+            "title": "Spartan Crafts Club",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 22,
+            "title": "The Treasure",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 23,
+            "title": "Wave of Science",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 24,
+            "title": "Voices Over Infinite Distance",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 25,
+            "title": "Stone Wars Beginning",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 26,
+            "title": "Hot Line",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 27,
+            "title": "Call from the Dead",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 28,
+            "title": "Full Assault",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 29,
+            "title": "Steam Gorilla",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 30,
+            "title": "Prison Break",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 31,
+            "title": "Secret Mission",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 32,
+            "title": "Final Battle",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 33,
+            "title": "To Destroy and to Save",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 34,
+            "title": "Humanity's Strongest Tag Team",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 35,
+            "title": "Prologue of Dr. Stone",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 36,
+            "title": "Ryusui",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 37,
+            "title": "New World Map",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 38,
+            "title": "Greed Equals Justice",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 39,
+            "title": "First Contact",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 40,
+            "title": "Eyes of Science",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 41,
+            "title": "Science Vessel Perseus",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 42,
+            "title": "Treasure Box",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 43,
+            "title": "Ray of Despair, Ray of Hope",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 44,
+            "title": "The Trump Card Aboard the Science Vessel",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 45,
+            "title": "Beautiful Science",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 46,
+            "title": "Science Wars",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 47,
+            "title": "With This Fist, A Miracle",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 48,
+            "title": "The Kingdom of Science's Counterattack",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 49,
+            "title": "The Medusa's True Face",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 50,
+            "title": "The Medusa's True Face",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 51,
+            "title": "Battle in Three Dimensions",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 52,
+            "title": "Total War",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 53,
+            "title": "Joker",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 54,
+            "title": "Flicker of Doom",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 55,
+            "title": "Last Man Standing",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 56,
+            "title": "First Dream",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 57,
+            "title": "Treasure Island",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 58,
+            "title": "Beyond the New World",
+            "type": "cannon"
+    }
+    ]
+}

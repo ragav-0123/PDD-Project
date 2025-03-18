@@ -1,0 +1,129 @@
+{
+    "anime_id": 16,    
+    "anime_name": "One Punch Man",
+    "genres": "Comedy",
+    "total_episodes": 24,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "The Strongest Man",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 2,
+            "title": "The Lone Cyborg",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 3,
+            "title": "The Obsessive Scientist",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 4,
+            "title": "The Modern Ninja",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 5,
+            "title": "The Ultimate Mentor",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 6,
+            "title": "The Terrifying City",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 7,
+            "title": "The Ultimate Disciple",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 8,
+            "title": "The Deep Sea King",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 9,
+            "title": "Unyielding Justice",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 10,
+            "title": "Unparalleled Peril",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 11,
+            "title": "The Dominator of the Universe",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 12,
+            "title": "The Strongest Hero",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 13,
+            "title": "The Hero's Return",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 14,
+            "title": "The Human Monster",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 15,
+            "title": "The Hunt Begins",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 16,
+            "title": "The Metal Bat",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 17,
+            "title": "The Martial Arts Tournament",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 18,
+            "title": "The Monster Uprising",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 19,
+            "title": "The Class S Heroes",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 20,
+            "title": "The Resistance of the Strong",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 21,
+            "title": "The Troubles of the Strongest",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 22,
+            "title": "Justice Under Siege",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 23,
+            "title": "The Varieties of Pride",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 24,
+            "title": "The Wiping of the Disciple's Butt",
+            "type": "cannon"
+    }
+
+    ]
+}

@@ -1,0 +1,508 @@
+{
+    "anime_id": 39,   
+    "anime_name": "The Seven Deadly Sins",
+    "genres": "Fantasy",
+    "total_episodes": 100,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "The Seven Deadly Sins",
+            "type": "canon"
+          },
+          {
+            "episode_number": 2,
+            "title": "The Sword of the Holy Knight",
+            "type": "canon"
+          },
+          {
+            "episode_number": 3,
+            "title": "The Sin in the Sleeping Forest",
+            "type": "canon"
+          },
+          {
+            "episode_number": 4,
+            "title": "A Little Girl's Dream",
+            "type": "canon"
+          },
+          {
+            "episode_number": 5,
+            "title": "Even If You Should Die",
+            "type": "canon"
+          },
+          {
+            "episode_number": 6,
+            "title": "The Poem of Beginnings",
+            "type": "canon"
+          },
+          {
+            "episode_number": 7,
+            "title": "A Touching Reunion",
+            "type": "canon"
+          },
+          {
+            "episode_number": 8,
+            "title": "The Fearsome Pursuer",
+            "type": "canon"
+          },
+          {
+            "episode_number": 9,
+            "title": "Dark Pulse",
+            "type": "canon"
+          },
+          {
+            "episode_number": 10,
+            "title": "Vaizel Fight Festival",
+            "type": "canon"
+          },
+          {
+            "episode_number": 11,
+            "title": "Pent-Up Feelings",
+            "type": "canon"
+          },
+          {
+            "episode_number": 12,
+            "title": "Bloodcurdling Cannon",
+            "type": "canon"
+          },
+          {
+            "episode_number": 13,
+            "title": "The Angel of Destruction",
+            "type": "canon"
+          },
+          {
+            "episode_number": 14,
+            "title": "A Reader of Books",
+            "type": "canon"
+          },
+          {
+            "episode_number": 15,
+            "title": "Unholy Knight",
+            "type": "canon"
+          },
+          {
+            "episode_number": 16,
+            "title": "The Legends, Provoked",
+            "type": "canon"
+          },
+          {
+            "episode_number": 17,
+            "title": "The First Sacrifice",
+            "type": "canon"
+          },
+          {
+            "episode_number": 18,
+            "title": "Even If It Costs Me My Life",
+            "type": "canon"
+          },
+          {
+            "episode_number": 19,
+            "title": "The Fairy King Waits in Vain",
+            "type": "canon"
+          },
+          {
+            "episode_number": 20,
+            "title": "The Courage Charm",
+            "type": "canon"
+          },
+          {
+            "episode_number": 21,
+            "title": "The Looming Threat",
+            "type": "canon"
+          },
+          {
+            "episode_number": 22,
+            "title": "What I Can Do For You",
+            "type": "canon"
+          },
+          {
+            "episode_number": 23,
+            "title": "Despair Descends",
+            "type": "canon"
+          },
+          {
+            "episode_number": 24,
+            "title": "The Heroes",
+            "type": "canon"
+          },
+          {
+            "episode_number": 25,
+            "title": "The Dark Dream Begins",
+            "type": "filler"
+          },
+          {
+            "episode_number": 26,
+            "title": "Our Fighting Festival",
+            "type": "filler"
+          },
+          {
+            "episode_number": 27,
+            "title": "In Pursuit of First Love",
+            "type": "filler"
+          },
+          {
+            "episode_number": 28,
+            "title": "The Shape of Love",
+            "type": "filler"
+          },
+          {
+            "episode_number": 29,
+            "title": "Revival of The Demon Clan",
+            "type": "canon"
+          },
+          {
+            "episode_number": 30,
+            "title": "Existence and Proof",
+            "type": "canon"
+          },
+          {
+            "episode_number": 31,
+            "title": "Sacred Treasure Lostvayne",
+            "type": "canon"
+          },
+          {
+            "episode_number": 32,
+            "title": "The Ten Commandments on the Move",
+            "type": "canon"
+          },
+          {
+            "episode_number": 33,
+            "title": "Overwhelming Violence",
+            "type": "canon"
+          },
+          {
+            "episode_number": 34,
+            "title": "The Great Holy Knight Atones For His Sins",
+            "type": "canon"
+          },
+          {
+            "episode_number": 35,
+            "title": "Where Memories Lead",
+            "type": "canon"
+          },
+          {
+            "episode_number": 36,
+            "title": "The Druids' Holy Land",
+            "type": "canon"
+          },
+          {
+            "episode_number": 37,
+            "title": "A Promise To A Loved One",
+            "type": "canon"
+          },
+          {
+            "episode_number": 38,
+            "title": "What We Lacked",
+            "type": "canon"
+          },
+          {
+            "episode_number": 39,
+            "title": "Father and Son",
+            "type": "canon"
+          },
+          {
+            "episode_number": 40,
+            "title": "Where Love is Found",
+            "type": "canon"
+          },
+          {
+            "episode_number": 41,
+            "title": "Farewell, Beloved Thief",
+            "type": "canon"
+          },
+          {
+            "episode_number": 42,
+            "title": "Master of the Sun",
+            "type": "canon"
+          },
+          {
+            "episode_number": 43,
+            "title": "A Bloodcurdling Confession",
+            "type": "canon"
+          },
+          {
+            "episode_number": 44,
+            "title": "Death-Trap Maze",
+            "type": "canon"
+          },
+          {
+            "episode_number": 45,
+            "title": "Legendary Figures",
+            "type": "canon"
+          },
+          {
+            "episode_number": 46,
+            "title": "For Whom Does That Light Shine?",
+            "type": "canon"
+          },
+          {
+            "episode_number": 47,
+            "title": "Meliodas vs the Ten Commandments",
+            "type": "canon"
+          },
+          {
+            "episode_number": 48,
+            "title": "Pursuit of Hope",
+            "type": "canon"
+          },
+          {
+            "episode_number": 49,
+            "title": "Certain Warmth",
+            "type": "canon"
+          },
+          {
+            "episode_number": 50,
+            "title": "Return of the Sins",
+            "type": "canon"
+          },
+          {
+            "episode_number": 51,
+            "title": "The Hero Rises!",
+            "type": "canon"
+          },
+          {
+            "episode_number": 52,
+            "title": "As Long As You Are Here",
+            "type": "canon"
+          },
+          {
+            "episode_number": 53,
+            "title": "The Light That Disperses Darkness",
+            "type": "canon"
+          },
+          {
+            "episode_number": 54,
+            "title": "Memories of the Holy War",
+            "type": "canon"
+          },
+          {
+            "episode_number": 55,
+            "title": "Let There Be Light",
+            "type": "canon"
+          },
+          {
+            "episode_number": 56,
+            "title": "The Ten Commandments vs. The Four Archangels",
+            "type": "canon"
+          },
+          {
+            "episode_number": 57,
+            "title": "Emotional Maelstrom",
+            "type": "canon"
+          },
+          {
+            "episode_number": 58,
+            "title": "We Call That Love",
+            "type": "canon"
+          },
+          {
+            "episode_number": 59,
+            "title": "Deadly Sins Unite!",
+            "type": "canon"
+          },
+          {
+            "episode_number": 60,
+            "title": "The Doll Seeks Love",
+            "type": "canon"
+          },
+          {
+            "episode_number": 61,
+            "title": "The Cursed Lovers",
+            "type": "canon"
+          },
+          {
+            "episode_number": 62,
+            "title": "The Life We Live",
+            "type": "canon"
+          },
+          {
+            "episode_number": 63,
+            "title": "The Hateful Cannot Rest",
+            "type": "canon"
+          },
+          {
+            "episode_number": 64,
+            "title": "Love is a Maiden's Power",
+            "type": "canon"
+          },
+          {
+            "episode_number": 65,
+            "title": "The Almighty vs. the Greatest Evil",
+            "type": "canon"
+          },
+          {
+            "episode_number": 66,
+            "title": "A New Threat",
+            "type": "canon"
+          },
+          {
+            "episode_number": 67,
+            "title": "To Our Captain",
+            "type": "canon"
+          },
+          {
+            "episode_number": 68,
+            "title": "The Seven Deadly Sins End",
+            "type": "canon"
+          },
+          {
+            "episode_number": 69,
+            "title": "Our Choices",
+            "type": "canon"
+          },
+          {
+            "episode_number": 70,
+            "title": "March of the Saints",
+            "type": "canon"
+          },
+          {
+            "episode_number": 71,
+            "title": "The Holy War Pact",
+            "type": "canon"
+          },
+          {
+            "episode_number": 72,
+            "title": "Child of Hope",
+            "type": "canon"
+          },
+          {
+            "episode_number": 73,
+            "title": "Beginning of the Holy War",
+            "type": "canon"
+          },
+          {
+            "episode_number": 74,
+            "title": "War-torn Britannia",
+            "type": "canon"
+          },
+          {
+            "episode_number": 75,
+            "title": "The One Twisted by Darkness",
+            "type": "canon"
+          },
+          {
+            "episode_number": 76,
+            "title": "Rampaging Love",
+            "type": "canon"
+          },
+          {
+            "episode_number": 77,
+            "title": "From Purgatory",
+            "type": "canon"
+          },
+          {
+            "episode_number": 78,
+            "title": "A Meeting with the Unknown",
+            "type": "canon"
+          },
+          {
+            "episode_number": 79,
+            "title": "A Single-Minded Love",
+            "type": "canon"
+          },
+          {
+            "episode_number": 80,
+            "title": "The Victims of the Holy War",
+            "type": "canon"
+          },
+          {
+            "episode_number": 81,
+            "title": "The Tragic Strike",
+            "type": "canon"
+          },
+          {
+            "episode_number": 82,
+            "title": "Confront Despair!!",
+            "type": "canon"
+          },
+          {
+            "episode_number": 83,
+            "title": "Hope, Conflict, and Despair",
+            "type": "canon"
+          },
+          {
+            "episode_number": 84,
+            "title": "The Doorway to Hope",
+            "type": "canon"
+          },
+          {
+            "episode_number": 85,
+            "title": "That Which Gathers",
+            "type": "canon"
+          },
+          {
+            "episode_number": 86,
+            "title": "The Salvation of the Sun",
+            "type": "canon"
+          },
+          {
+            "episode_number": 87,
+            "title": "The One Who Stands Against a God",
+            "type": "canon"
+          },
+          {
+            "episode_number": 88,
+            "title": "We'll All Be Your Strength",
+            "type": "canon"
+          },
+          {
+            "episode_number": 89,
+            "title": "The End of a Long Journey",
+            "type": "canon"
+          },
+          {
+            "episode_number": 90,
+            "title": "Farewell, Seven Deadly Sins",
+            "type": "canon"
+          },
+          {
+            "episode_number": 91,
+            "title": "Fated Brothers",
+            "type": "canon"
+          },
+          {
+            "episode_number": 92,
+            "title": "The Final Battle",
+            "type": "canon"
+          },
+          {
+            "episode_number": 93,
+            "title": "The Voice Calling Your Name",
+            "type": "canon"
+          },
+          {
+            "episode_number": 94,
+            "title": "The King Sings Alone",
+            "type": "canon"
+          },
+          {
+            "episode_number": 95,
+            "title": "The Struggle",
+            "type": "canon"
+          },
+          {
+            "episode_number": 96,
+            "title": "Mortal Enemies",
+            "type": "canon"
+          },
+          {
+            "episode_number": 97,
+            "title": "What the Witch Had Always Wanted",
+            "type": "canon"
+          },
+          {
+            "episode_number": 98,
+            "title": "A Taste of Chaos",
+            "type": "canon"
+          },
+          {
+            "episode_number": 99,
+            "title": "An Everlasting Kingdom",
+            "type": "canon"
+          },
+          {
+            "episode_number": 100,
+            "title": "Heirs",
+            "type": "canon"
+          }
+    ]
+}

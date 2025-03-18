@@ -1,0 +1,422 @@
+# Anime Character Motivational Quotes Training Dataset
+# Provide it randomly or to the user's preverence
+
+#Action
+
+## 1. Attack on Titan
+* Series Theme: Freedom, perseverance, and fighting against overwhelming odds
+* Notable Character Quotes:
+  - Eren Yeager: "If you win, you live. If you lose, you die. If you don't fight, you can't win!"
+  - Mikasa Ackerman: "This world is cruel, but it's also very beautiful."
+  - Erwin Smith: "It's us who gives meaning to our comrades' lives!"
+  - Levi Ackerman: "The only thing we're allowed to do is to believe that we won't regret the choice we made."
+
+## 2. My Hero Academia
+* Series Theme: Growth, heroism, and personal responsibility
+* Notable Character Quotes:
+  - All Might: "It's not about whether you can or cannot. You have to do it, because you have to!"
+  - Izuku Midoriya: "Sometimes I do feel like crying, but... I have to keep moving forward!"
+  - Bakugo Katsuki: "If you wanna win, you have to develop a killer instinct."
+  - Shota Aizawa: "Those who are truly strong don't need to show off their power."
+
+## 3. Demon Slayer
+* Series Theme: Family bonds, determination, and protecting others
+* Notable Character Quotes:
+  - Tanjiro Kamado: "No matter how many people you may lose, you have no choice but to go on living."
+  - Zenitsu Agatsuma: "I'll show you that even a coward can become strong!"
+  - Giyu Tomioka: "Those who regret their actions and try to change deserve a chance."
+  - Kyojuro Rengoku: "Set your heart ablaze. Go beyond your limits!"
+
+## 4. Naruto
+* Series Theme: Perseverance, friendship, and never giving up
+* Notable Character Quotes:
+  - Naruto Uzumaki: "I'm not gonna run away, I never go back on my word! That's my nindo: my ninja way!"
+  - Itachi Uchiha: "Those who forgive themselves and are able to accept their true nature... They are the strong ones!"
+  - Kakashi Hatake: "In the ninja world, those who break the rules are scum, but those who abandon their friends are worse than scum."
+  - Jiraiya: "A person grows up when they're able to overcome hardships."
+
+## 5. Bleach
+* Series Theme: Duty, protection, and inner strength
+* Notable Character Quotes:
+  - Ichigo Kurosaki: "If fate is a millstone, then we are the grist. We can either be ground to dust or we can grind it ourselves."
+  - Rukia Kuchiki: "Even if no one believes in you, stick out your chest and scream in defiance!"
+  - Byakuya Kuchiki: "I've discarded all emotion, a warrior only needs one thing: the will to win."
+  - Kisuke Urahara: "Fear is necessary for evolution."
+
+## 6. One Piece
+* Series Theme: Dreams, freedom, and friendship
+* Notable Character Quotes:
+  - Monkey D. Luffy: "If you don't take risks, you can't create a future!"
+  - Roronoa Zoro: "When the world shoves you around, you just gotta stand up and shove back!"
+  - Sanji: "A man forgives a woman's lies."
+  - Portgas D. Ace: "Thank you for loving me!"
+
+## 7. Tokyo Ghoul
+* Series Theme: Identity, acceptance, and moral ambiguity
+* Notable Character Quotes:
+  - Ken Kaneki: "I'm not the protagonist of a novel or anything... I'm a college student who likes to read. But... if for argument's sake, you were to write a story with me in the lead role, it would certainly be... a tragedy."
+  - Touka Kirishima: "The world isn't perfect. But it's there for us, doing the best it can."
+  - Juuzou Suzuya: "What's right from wrong? What's good from bad? The difference between the two is paper thin."
+  - Yoshimura: "All children who are raised with love grow up to be strong adults."
+
+## 8. Black Clover
+* Series Theme: Hard work, determination, and surpassing limits
+* Notable Character Quotes:
+  - Asta: "Not giving up is my magic!"
+  - Yami Sukehiro: "Surpass your limits. Right here, right now."
+  - Noelle Silva: "I'm a royal, but I'm me before I'm a royal!"
+  - Julius Novachrono: "Being different from others makes you special."
+
+## 9. Fairy Tail
+* Series Theme: Family, friendship, and bonds
+* Notable Character Quotes:
+  - Natsu Dragneel: "I'm all fired up!"
+  - Erza Scarlet: "It's not the Magic that makes you strong, it's the people around you."
+  - Lucy Heartfilia: "When people realize how lonely it is being on their own, they will become kind."
+  - Makarov Dreyar: "The power to overcome reasoning is born from reasoning."
+
+## 10. Dragon Ball
+* Series Theme: Self-improvement, overcoming limits
+* Notable Character Quotes:
+  - Goku: "I am the hope of the universe. I am the answer to all living things that cry out for peace."
+  - Vegeta: "Push through the pain, giving up hurts more."
+  - Master Roshi: "The turtle wins the race."
+  - Piccolo: "The only way to become stronger is to fight someone stronger than you."
+
+
+#Comedy
+
+# Comedy Anime Quotes Training Dataset
+
+## 1. Kaguya-sama: Love is War
+* Series Theme: Romantic comedy, psychological warfare, and pride
+* Notable Character Quotes:
+  - Kaguya Shinomiya: "Love is the vilest sickness to plague mankind. It makes you weak!"
+  - Miyuki Shirogane: "I can't afford to show any openings. That's what it means to be in a war."
+  - Chika Fujiwara: "Love makes you do crazy things. But that's what makes it fun!"
+  - Ai Hayasaka: "How cute." (O kawaii koto)
+
+## 2. The Disastrous Life of Saiki K.
+* Series Theme: Daily life of a psychic trying to be normal
+* Notable Character Quotes:
+  - Kusuo Saiki: "The only thing worse than standing out is trying not to stand out."
+  - Riki Nendou: "A real friend is someone who never gets tired of hearing the same story twice."
+  - Shun Kaido: "This must be the work of Dark Reunion!"
+  - Kokomi Teruhashi: "Oh my, oh my! How perfect am I?"
+
+## 3. Gintama
+* Series Theme: Parody, absurdist humor, and unexpected wisdom
+* Notable Character Quotes:
+  - Gintoki Sakata: "If you've got time to fantasize about a beautiful death, why not live beautifully until the end?"
+  - Kagura: "Sometimes the things you're looking for come when you're not looking at all."
+  - Shinpachi Shimura: "We're not here for the rewards. We're here to change things."
+  - Toshiro Hijikata: "The country? The skies? You can have them. I'm busy enough protecting what's in front of me."
+
+## 4. One Punch Man
+* Series Theme: Superhero parody, finding purpose
+* Notable Character Quotes:
+  - Saitama: "If you really want to become strong, stop caring about what others think about you."
+  - Genos: "Master, please teach me the way of not giving a damn!"
+  - King: "Sometimes the most powerful move is to do nothing at all."
+  - Mumen Rider: "It's not about winning or losing! It's about me taking you on right here, right now!"
+
+## 5. Nichijou: My Ordinary Life
+* Series Theme: Finding extraordinary in ordinary life
+* Notable Character Quotes:
+  - Yuuko Aioi: "Selamat pagi!" (Good morning!)
+  - Mai Minakami: "Life is like a tube of toothpaste. When you've used all the toothpaste down to the last squeeze, that's when you've really lived."
+  - Mio Naganohara: "Sometimes the smallest things take up the most room in your heart."
+  - Principal: "Life is a series of choices between what is right and what is easy."
+
+## 6. KonoSuba
+* Series Theme: Fantasy world parody, misadventures
+* Notable Character Quotes:
+  - Kazuma Satou: "I yearn for true gender equality."
+  - Aqua: "Don't underestimate the Goddess of Water!"
+  - Megumin: "Explosion magic is the best magic!"
+  - Darkness: "Such wonderful humiliation!"
+
+## 7. Daily Lives of High School Boys
+* Series Theme: Slice of life, teenage absurdity
+* Notable Character Quotes:
+  - Tadakuni: "Being normal is actually pretty hard."
+  - Hidenori: "Youth is a lie. It is nothing but evil."
+  - Yoshitake: "The more you think about it, the more complicated it gets."
+  - Literary Girl: "This isn't how it was supposed to go!"
+
+## 8. Haven't You Heard? I'm Sakamoto
+* Series Theme: Perfect character in imperfect situations
+* Notable Character Quotes:
+  - Sakamoto: "Style is not something you can buy with money."
+  - Kubota: "Being cool isn't everything... but Sakamoto makes it seem that way."
+  - Sera: "There's always a logical explanation... except when it comes to Sakamoto."
+  - Acchan: "Sometimes the coolest thing you can do is admit your own uncoolness."
+
+## 9. Beelzebub
+* Series Theme: Delinquent raising a demon baby
+* Notable Character Quotes:
+  - Tatsumi Oga: "I'm not a parent because I gave birth to him. I'm a parent because I'm raising him."
+  - Baby Beel: "Dah!" (Various profound meanings)
+  - Aoi Kunieda: "Strength isn't just about fighting. It's about protecting what matters."
+  - Furuichi: "Sometimes the best strategy is to accept that there is no strategy."
+
+## 10. Barakamon
+* Series Theme: Finding yourself through new experiences
+* Notable Character Quotes:
+  - Seishuu Handa: "Sometimes you need to take a step back to move forward."
+  - Naru Kotoishi: "Fun things are fun!"
+  - Hiroshi Kido: "There's no shame in being yourself."
+  - Miwa Yamamura: "Perfection isn't about being flawless, it's about being genuine."
+
+
+#Adventure
+
+# Adventure Anime Quotes Training Dataset
+
+## 1. One Piece
+* Series Theme: Adventure, dreams, freedom, and the bonds of friendship
+* Notable Character Quotes:
+  - Monkey D. Luffy: "Being alone is more painful than getting hurt!"
+  - Roronoa Zoro: "Only those who have suffered long can see the light within the shadows."
+  - Nami: "I'm gonna be the one who draws a map of the entire world!"
+  - Shanks: "Those who hurt my friends... I won't forgive!"
+
+## 2. Hunter x Hunter
+* Series Theme: Growth, friendship, and the complexity of human nature
+* Notable Character Quotes:
+  - Gon Freecss: "I can't stand being on the losing end forever!"
+  - Killua Zoldyck: "You want to know the secret? I'm not really fighting, I'm not even trying."
+  - Kurapika: "I do not fear death. I fear only that my rage will fade over time."
+  - Leorio: "If I had money, my friend wouldn't have died!"
+
+## 3. Made in Abyss
+* Series Theme: Discovery, survival, and the price of curiosity
+* Notable Character Quotes:
+  - Riko: "The Abyss is calling out to me."
+  - Reg: "Even if you get hurt or swept away, I'll come and save you!"
+  - Nanachi: "The curse doesn't make you suffer because it hates you... It's just how the Abyss works."
+  - Ozen: "Those who learn to live with their weakness can become stronger than anyone."
+
+## 4. Attack on Titan
+* Series Theme: Freedom, survival, and the cost of war
+* Notable Character Quotes:
+  - Eren Yeager: "If you win, you live. If you lose, you die. If you don't fight, you can't win!"
+  - Mikasa Ackerman: "Once I'm dead, I won't even be able to remember you. So I'll win, no matter what!"
+  - Armin Arlert: "Someone who can't sacrifice anything, can't ever change anything!"
+  - Erwin Smith: "If you begin to regret, you'll dull your future decisions and let others make your choices for you."
+
+## 5. Fullmetal Alchemist: Brotherhood
+* Series Theme: Equivalent exchange, family bonds, and redemption
+* Notable Character Quotes:
+  - Edward Elric: "A lesson without pain is meaningless. That's because no one can gain without sacrificing something."
+  - Alphonse Elric: "Survival is the only way to avenge the dead."
+  - Roy Mustang: "Nothing's perfect, the world's not perfect, but it's there for us, trying the best it can."
+  - Scar: "The cycle of hatred will never end unless someone takes the first step toward breaking it."
+
+## 6. Magi: The Labyrinth of Magic
+* Series Theme: Adventure, destiny, and the nature of power
+* Notable Character Quotes:
+  - Aladdin: "Even if you're poor, your soul can still be rich."
+  - Alibaba: "I won't give up! I'll definitely find a way!"
+  - Sinbad: "The only difference between a king and a sage is the path they choose."
+  - Morgiana: "Strength isn't just about physical power. It's about having the courage to move forward."
+
+## 7. Dr. Stone
+* Series Theme: Science, civilization, and human progress
+* Notable Character Quotes:
+  - Senku Ishigami: "Get excited! One billion percent!"
+  - Chrome: "Science is the most amazing art in the world!"
+  - Gen Asagiri: "The most powerful weapon isn't science or strength, it's manipulation of the heart."
+  - Tsukasa Shishio: "In this stone world, we have a chance to build a perfect civilization."
+
+## 8. Black Clover
+* Series Theme: Hard work, determination, and surpassing limits
+* Notable Character Quotes:
+  - Asta: "I'm not giving up! My magic is never giving up!"
+  - Yuno: "Being weak is nothing to be ashamed of... Staying weak is!"
+  - Yami Sukehiro: "Surpass your limits, right here, right now!"
+  - Noelle Silva: "Being born a royal doesn't define who I am!"
+
+## 9. Solo Leveling
+* Series Theme: Growth, power, and responsibility
+* Notable Character Quotes:
+  - Sung Jin-Woo: "I alone level up."
+  - Go Gun-Hee: "True strength isn't about being the strongest, it's about protecting others."
+  - Cha Hae-In: "Power comes with responsibility."
+  - Jin-Ho: "Sometimes the weakest can become the strongest."
+
+## 10. The Rising of the Shield Hero
+* Series Theme: Trust, betrayal, and redemption
+* Notable Character Quotes:
+  - Naofumi Iwatani: "All I need is the will to protect."
+  - Raphtalia: "You didn't run away. You kept fighting. That's why I'll keep fighting too!"
+  - Filo: "Being strong means protecting those who are weak!"
+  - Queen Mirelia: "True justice isn't about revenge, it's about making things right."
+
+#Drama
+
+# Drama and Slice-of-Life Anime Quotes Training Dataset
+
+## 1. Your Lie in April
+* Series Theme: Music, healing, and finding purpose through love
+* Notable Character Quotes:
+  - Kousei Arima: "Maybe there's only a dark road ahead. But you still have to believe and keep going. Believe that the stars will light your path, even a little bit."
+  - Kaori Miyazono: "I want to live. I want to live to eat canelés... and hold hands with someone I like and go to a bunch of different places... I want to live to play the violin."
+  - Tsubaki Sawabe: "The moment you give up is the moment you let someone else win."
+  - Ryota Watari: "Sometimes the most beautiful things in life are the ones that hurt the most."
+
+## 2. Haikyuu!!
+* Series Theme: Teamwork, personal growth, and dedication
+* Notable Character Quotes:
+  - Hinata Shoyo: "As long as I'm here, you're invincible!"
+  - Kageyama Tobio: "Nobody who can't see the worth in losing will ever be able to achieve true victory."
+  - Oikawa Tooru: "If you're going to hit it, hit it until it breaks."
+  - Daichi Sawamura: "The last point isn't scored by talent or skill, but by heart."
+
+## 3. Violet Evergarden
+* Series Theme: Understanding emotions and human connection
+* Notable Character Quotes:
+  - Violet Evergarden: "I want to know what 'I love you' means."
+  - Gilbert Bougainvillea: "From the bottom of my heart, I love you."
+  - Claudia Hodgins: "Words are powerful. They can hurt people, and they can save people."
+  - Iris Cannary: "Sometimes the words we can't say are the ones that mean the most."
+
+## 4. Silver Spoon
+* Series Theme: Finding your path and understanding life's fundamentals
+* Notable Character Quotes:
+  - Yugo Hachiken: "It's not about where you came from, it's about where you're going."
+  - Aki Mikage: "Dreams don't have to be big. They just have to be yours."
+  - Ichiro Komaba: "Hard work betrays none, but dreams betray many."
+  - Tamako Inada: "The only way to know if something's impossible is to try it first."
+
+## 5. The Aquatope on White Sand
+* Series Theme: Dreams, second chances, and finding your place
+* Notable Character Quotes:
+  - Fuuka Miyazawa: "Sometimes you have to let go of one dream to find another."
+  - Kukuru Misakino: "It's okay to not know where you're going, as long as you keep moving forward."
+  - Kai Nakamura: "The ocean teaches us that life always finds a way."
+  - Udon-chan: "Sometimes the most beautiful moments are the ones we don't plan for."
+
+## 6. Barakamon
+* Series Theme: Self-discovery and community
+* Notable Character Quotes:
+  - Seishuu Handa: "True art comes from living, not just creating."
+  - Naru Kotoishi: "Being different isn't wrong, it's what makes life interesting!"
+  - Hiroshi Kido: "Sometimes the best way to grow is to let others in."
+  - Miwa Yamamura: "Life is about the connections we make, not the achievements we earn."
+
+## 7. Non Non Biyori
+* Series Theme: Finding joy in simple moments
+* Notable Character Quotes:
+  - Renge Miyauchi: "Nyanpasu~! Every day is a new adventure."
+  - Hotaru Ichijo: "Sometimes the quietest places have the loudest hearts."
+  - Komari Koshigaya: "The best memories are made when you're not trying to make them."
+  - Kaede Kagayama: "Life in the countryside moves slowly, but that's what makes it beautiful."
+
+## 8. Natsume's Book of Friends
+* Series Theme: Understanding others and accepting oneself
+* Notable Character Quotes:
+  - Takashi Natsume: "Loneliness is not something that happens to you. It's something you choose to face."
+  - Madara/Nyanko-sensei: "The world is filled with things we can't see, but that doesn't make them any less real."
+  - Reiko Natsume: "Strength isn't about not showing weakness, it's about continuing on despite it."
+  - Touko Fujiwara: "Family isn't always about blood, it's about who accepts you for who you are."
+
+## 9. Sweetness & Lightning
+* Series Theme: Family bonds and healing through food
+* Notable Character Quotes:
+  - Kouhei Inuzuka: "Sometimes the simplest meals carry the most love."
+  - Tsumugi Inuzuka: "Food tastes better when you eat it with people you love!"
+  - Kotori Iida: "Cooking isn't just about the food, it's about the memories we make."
+  - Shinobu Kojika: "Every meal is a chance to bring people closer together."
+
+## 10. March Comes in Like a Lion
+* Series Theme: Depression, recovery, and finding family
+* Notable Character Quotes:
+  - Rei Kiriyama: "The darkness may never go away completely, but that's why we look for the light."
+  - Akari Kawamoto: "Sometimes family is the people who choose to stay by your side."
+  - Hinata Kawamoto: "You don't have to be strong all the time. It's okay to lean on others."
+  - Momo Kawamoto: "Even the smallest acts of kindness can change someone's world."
+
+#Fantasy
+
+# Fantasy Anime Quotes Training Dataset
+
+## 1. Log Horizon
+* Series Theme: Strategy, world-building, and leadership in a fantasy world
+* Notable Character Quotes:
+  - Shiroe: "The world might be a game, but the people in it are real."
+  - Akatsuki: "Loyalty isn't about blind following, it's about believing in someone's vision."
+  - Naotsugu: "Sometimes the best strategy is the one that makes everyone happy."
+  - Nyanta: "In any world, what matters most is how you choose to live in it."
+
+## 2. Yu Yu Hakusho
+* Series Theme: Spiritual power, growth, and responsibility
+* Notable Character Quotes:
+  - Yusuke Urameshi: "As long as I have something to protect, I won't lose to anyone!"
+  - Kazuma Kuwabara: "A real man fights with honor and keeps his promises."
+  - Kurama: "What you don't understand is that there are some things worth dying for."
+  - Hiei: "Your strength is determined by what you're willing to protect."
+
+## 3. That Time I Got Reincarnated as a Slime
+* Series Theme: Nation building, acceptance, and leadership
+* Notable Character Quotes:
+  - Rimuru Tempest: "The strong should protect the weak. That's what makes a true nation."
+  - Benimaru: "Strength isn't just about power, it's about how you use it."
+  - Shion: "Loyalty comes from the heart, not from obligation."
+  - Ranga: "A true leader serves their people before themselves."
+
+## 4. The Seven Deadly Sins
+* Series Theme: Redemption, loyalty, and the nature of sin
+* Notable Character Quotes:
+  - Meliodas: "A sin isn't something you carry by yourself. It's something you carry with those who believe in you."
+  - Ban: "Living forever doesn't mean anything if you're alone."
+  - King: "True strength comes from protecting what you love."
+  - Elizabeth: "Sometimes forgiveness is the strongest form of justice."
+
+## 5. Inuyasha
+* Series Theme: Love transcending time, duty, and perseverance
+* Notable Character Quotes:
+  - Inuyasha: "The bond between us can't be broken by time or distance."
+  - Kagome: "It's not about where you came from, it's about where you choose to go."
+  - Miroku: "The greatest curse is the one we place upon ourselves."
+  - Sango: "True strength comes from fighting for what you believe in."
+
+## 6. The Misfit of Demon King Academy
+* Series Theme: Power, prejudice, and redefining destiny
+* Notable Character Quotes:
+  - Anos Voldigoad: "The true measure of a ruler isn't their power, but their wisdom."
+  - Misha Necron: "Sometimes the greatest magic is simply believing in someone."
+  - Sasha Necron: "Destiny isn't something given to you, it's something you create."
+  - Ray Gransdori: "True peace can't be achieved through force alone."
+
+## 7. Little Witch Academia
+* Series Theme: Magic, dreams, and believing in yourself
+* Notable Character Quotes:
+  - Akko Kagari: "A believing heart is your magic!"
+  - Diana Cavendish: "Tradition shouldn't bind us, it should guide us."
+  - Sucy Manbavaran: "Sometimes the strangest path leads to the best destination."
+  - Lotte Yanson: "Magic isn't just about power, it's about understanding."
+
+## 8. The Irregular at Magic High School
+* Series Theme: Magic as science, family bonds, and social hierarchy
+* Notable Character Quotes:
+  - Tatsuya Shiba: "Magic isn't a miracle. It's the result of careful calculation."
+  - Miyuki Shiba: "True power comes from understanding both your strengths and weaknesses."
+  - Mayumi Saegusa: "Leadership isn't about controlling others, it's about inspiring them."
+  - Erika Chiba: "Sometimes the best magic is the simplest solution."
+
+## 9. Overlord
+* Series Theme: Power, leadership, and moral ambiguity
+* Notable Character Quotes:
+  - Ainz Ooal Gown: "A ruler must appear perfect in front of their subjects."
+  - Albedo: "Loyalty isn't blind devotion, it's reasoned dedication."
+  - Demiurge: "True intelligence is knowing when not to use power."
+  - Cocytus: "Honor isn't about winning, it's about how you fight."
+
+## 10. Wise Man's Grandchild
+* Series Theme: Magic education, innovation, and responsibility
+* Notable Character Quotes:
+  - Shin Wolford: "Knowledge without wisdom is dangerous."
+  - Sicily von Claude: "True magic comes from understanding, not just power."
+  - Merlin Wolford: "The greatest magic is the ability to protect others."
+  - August von Earlshide: "Power without purpose is meaningless."

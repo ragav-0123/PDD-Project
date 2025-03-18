@@ -1,0 +1,128 @@
+{
+    "anime_id": 18,
+    "anime_name": "Tokyo Ghoul",
+    "total_episodes": 24,
+    "genres": "Action",
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "Tragedy",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 2,
+            "title": "Incubation",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 3,
+            "title": "Dove",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 4,
+            "title": "Supper",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 5,
+            "title": "Scars",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 6,
+            "title": "Cloudburst",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 7,
+            "title": "Captivity",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 8,
+            "title": "Circular",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 9,
+            "title": "Birdcage",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 10,
+            "title": "Aogiri",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 11,
+            "title": "High Spirits",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 12,
+            "title": "Ghoul",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 13,
+            "title": "New Surge",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 14,
+            "title": "Dancing Flowers",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 15,
+            "title": "Hangman",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 16,
+            "title": "Deeper Layers",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 17,
+            "title": "Rift",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 18,
+            "title": "Thousand Paths",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 19,
+            "title": "Permeation",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 20,
+            "title": "Old Nines",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 21,
+            "title": "City In Waiting",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 22,
+            "title": "Last Rain",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 23,
+            "title": "Deluge of Flowers",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 24,
+            "title": "Ken",
+            "type": "cannon"
+    }
+    ]
+}

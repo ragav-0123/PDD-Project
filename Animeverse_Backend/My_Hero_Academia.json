@@ -1,0 +1,809 @@
+{
+    "anime_id": 2,
+    "anime_name": "My Hero Academia",
+    "total_episodes": 159,
+    "genres": "Action",
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "Izuku Midoriya: Origin",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 2,
+            "title": "What It Takes To Be a Hero",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 3,
+            "title": "Roaring Muscles",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 4,
+            "title": "Start Line",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 5,
+            "title": "What I Can Do for Now",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 6,
+            "title": "Rage, You Damn Nerd",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 7,
+            "title": "Deku vs. Kacchan",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 8,
+            "title": "Bakugo's Start Line",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 9,
+            "title": "Yeah, Just Do Your Best, Iida!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 10,
+            "title": "Encounter With the Unknown",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 11,
+            "title": "Game Over",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 12,
+            "title": "All Might",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 13,
+            "title": "In Each of Our Hearts",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 14,
+            "title": "That's the Idea, Ochaco",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 15,
+            "title": "Roaring Sports Festival",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 16,
+            "title": "In Their Own Quirky Ways",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 17,
+            "title": "Strategy, Strategy, Strategy",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 18,
+            "title": "Cavalry Battle Finale",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 19,
+            "title": "The Boy Born With Everything",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 20,
+            "title": "Victory or Defeat",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 21,
+            "title": "Battle on, Challengers!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 22,
+            "title": "Bakugo vs. Uraraka",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 23,
+            "title": "Shoto Todoroki: Origin",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 24,
+            "title": "Fight on, Iida",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 25,
+            "title": "Todoroki vs. Bakugo",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 26,
+            "title": "Time To Pick Some Names",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 27,
+            "title": "Bizarre! Gran Torino Appears",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 28,
+            "title": "Midoriya and Shigaraki",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 29,
+            "title": "Hero Killer: Stain vs. U.A. Students",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 30,
+            "title": "Climax",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 31,
+            "title": "The Aftermath of Hero Killer: Stain",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 32,
+            "title": "Everyone's Internships",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 33,
+            "title": "Listen Up!! A Tale From the Past",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 34,
+            "title": "Gear up for Final Exams",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 35,
+            "title": "Yaoyorozu: Rising",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 36,
+            "title": "Stripping the Varnish",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 37,
+            "title": "Katsuki Bakugo: Origin",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 38,
+            "title": "Encounter",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 39,
+            "title": "Game Start",
+            "type": "filler"
+        },
+        {
+            "episode_number": 40,
+            "title": "Wild, Wild Pussycats",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 41,
+            "title": "Kota",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 42,
+            "title": "My Hero",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 43,
+            "title": "Drive It Home, Iron Fist!!!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 44,
+            "title": "Roaring Upheaval",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 45,
+            "title": "What a Twist!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 46,
+            "title": "From Iida to Midoriya",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 47,
+            "title": "All For One",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 48,
+            "title": "Symbol of Peace",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 49,
+            "title": "One For All",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 50,
+            "title": "End of the Beginning, Beginning of the End",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 51,
+            "title": "Moving Into Dorms",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 52,
+            "title": "Create Those Ultimate Moves",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 53,
+            "title": "The Test",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 54,
+            "title": "Shiketsu High Lurking",
+            "type": "Mixed cannon/Filler"
+        },
+        {
+            "episode_number": 55,
+            "title": "Class 1-A",
+            "type": "Mixed canon/Filler"
+        },
+        {
+            "episode_number": 56,
+            "title": "RUSH!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 57,
+            "title": "Rescue Exercises",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 58,
+            "title": "Special Episode: Save the World With Love!",
+            "type": "filler"
+        },
+        {
+            "episode_number": 59,
+            "title": "What's the Big Idea?",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 60,
+            "title": "A Talk About Your Quirk",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 61,
+            "title": "Deku vs. Kacchan, Part 2",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 62,
+            "title": "A Season for Encounters",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 63,
+            "title": "Unrivaled",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 64,
+            "title": "The Scoop on U.A. Class 1-A",
+            "type": "filler"
+        },
+        {
+            "episode_number": 65,
+            "title": "Overhaul",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 66,
+            "title": "Boy Meets...",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 67,
+            "title": "Fighting Fate",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 68,
+            "title": "Let's Go, Gutsy Red Riot!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 69,
+            "title": "An Unpleasant Talk",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 70,
+            "title": "GO!!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 71,
+            "title": "Suneater of the Big Three",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 72,
+            "title": "Red Riot",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 73,
+            "title": "Temp Squad",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 74,
+            "title": "Lemillion",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 75,
+            "title": "Unforeseen Hope",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 76,
+            "title": "Infinite 100%",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 77,
+            "title": "Bright Future",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 78,
+            "title": "Smoldering Flames",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 79,
+            "title": "Win Those Kids' Hearts",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 80,
+            "title": "Relief for License Trainees",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 81,
+            "title": "School Festival",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 82,
+            "title": "Prepping for the School Festival Is the Most Fun Part",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 83,
+            "title": "Gold Tips Imperial",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 84,
+            "title": "Deku vs. Gentle Criminal",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 85,
+            "title": "School Festival Start!!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 86,
+            "title": "Let It Flow! School Festival!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 87,
+            "title": "Japanese Hero Billboard Chart",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 88,
+            "title": "His Start",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 89,
+            "title": "All Hands on Deck! Class 1-A",
+            "type": "Mixed cannon/Filler"
+        },
+        {
+            "episode_number": 90,
+            "title": "Vestiges",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 91,
+            "title": "Clash! Class A vs. Class B!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 92,
+            "title": "Make It Happen, Shinso!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 93,
+            "title": "Operation New Improve Moves",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 94,
+            "title": "Foresight",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 95,
+            "title": "Match 3",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 96,
+            "title": "Match 3 Conclusion",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 97,
+            "title": "Early Bird!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 98,
+            "title": "That Which Is Inherited",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 99,
+            "title": "Our Brawl",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 100,
+            "title": "The New Power and All For One",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 101,
+            "title": "Have a Merry Christmas!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 102,
+            "title": "Off to Endeavor's Agency!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 103,
+            "title": "One Thing at a Time",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 104,
+            "title": "Long Time No See, Selkie",
+            "type": "filler"
+        },
+        {
+            "episode_number": 105,
+            "title": "The Hellish Todoroki Family",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 106,
+            "title": "The Unforgiven",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 107,
+            "title": "More of a Hero Than Anyone",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 108,
+            "title": "My Villain Academia",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 109,
+            "title": "Revival Party",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 110,
+            "title": "Sad Man's Parade",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 111,
+            "title": "Tenko Shimura: Origin",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 112,
+            "title": "Tomura Shigaraki: Origin",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 113,
+            "title": "The High, Deep Blue Sky",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 114,
+            "title": "A Quiet Beginning",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 115,
+            "title": "Mirko, the No. 5 Hero",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 116,
+            "title": "One's Justice",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 117,
+            "title": "Inheritance",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 118,
+            "title": "The Thrill of Destruction",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 119,
+            "title": "Encounter, Part 2",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 120,
+            "title": "Disaster Walker",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 121,
+            "title": "League of Villains vs. U.A. Students",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 122,
+            "title": "Katsuki Bakugo: Rising",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 123,
+            "title": "The Ones Within Us!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 124,
+            "title": "Dabi's Dance",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 125,
+            "title": "Threads of Hope",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 126,
+            "title": "Final Performance",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 127,
+            "title": "Hellish Hell",
+            "type": "Mixed cannon/Filler"
+        },
+        {
+            "episode_number": 128,
+            "title": "Tartarus",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 129,
+            "title": "The Hellish Todoroki Family, Part 2",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 130,
+            "title": "The Wrong Way To Put Out a Fire",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 131,
+            "title": "Izuku Midoriya and Tomura Shigaraki",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 132,
+            "title": "Full Power!!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 133,
+            "title": "Hired Gun",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 134,
+            "title": "The Lovely Lady Nagant",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 135,
+            "title": "Friend",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 136,
+            "title": "Deku vs. Class A",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 137,
+            "title": "A Young Woman's Declaration",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 138,
+            "title": "No Man Is an Island",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 139,
+            "title": "In the Nick of Time! A Big-Time Maverick From the West!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 140,
+            "title": "Specter",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 141,
+            "title": "Villain",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 142,
+            "title": "The Story of How We All Became Heroes",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 143,
+            "title": "Let You Down",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 144,
+            "title": "Division",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 145,
+            "title": "Inflation",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 146,
+            "title": "Two Flashfires",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 147,
+            "title": "Extras",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 148,
+            "title": "Wounded Hero, Burning Bright and True!!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 149,
+            "title": "Light Fades To Rain",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 150,
+            "title": "Those Who Defend, Those Who Violate",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 151,
+            "title": "A Chain of Events, Across the Ages",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 152,
+            "title": "Together With Shoji",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 153,
+            "title": "Butterfly Effect",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 154,
+            "title": "The Chain Thus Far",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 155,
+            "title": "Hopes",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 156,
+            "title": "It's a Small World",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 157,
+            "title": "I Am Here",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 158,
+            "title": "A Girl's Ego",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 159,
+            "title": "Battle Without a Quirk",
+            "type": "cannon"
+        }
+        
+
+
+
+
+
+    ]
+}

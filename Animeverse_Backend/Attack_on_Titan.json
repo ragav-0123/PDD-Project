@@ -1,0 +1,454 @@
+{
+    "anime_id": 12,
+    "anime_name": "Attack On Titan",
+    "total_episodes": 89,
+    "genres": "Drama",
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "To You, in 2000 Years: The Fall of Shiganshina, Part 1",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 2,
+            "title": "That Day: The Fall of Shiganshina, Part 2",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 3,
+            "title": "A Dim Light Amid Despair: Humanity's Comeback, Part 1",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 4,
+            "title": "The Night of the Closing Ceremony: Humanity's Comeback, Part 2",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 5,
+            "title": "First Battle: The Struggle for Trost, Part 1",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 6,
+            "title": "The World the Girl Saw: The Struggle for Trost, Part 2",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 7,
+            "title": "Small Blade: The Struggle for Trost, Part 3",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 8,
+            "title": "I Can Hear His Heartbeat: The Struggle for Trost, Part 4",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 9,
+            "title": "Whereabouts of His Left Arm: The Struggle for Trost, Part 5",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 10,
+            "title": "Response: The Struggle for Trost, Part 6",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 11,
+            "title": "Idol: The Struggle for Trost, Part 7",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 12,
+            "title": "Wound: The Struggle for Trost, Part 8",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 13,
+            "title": "Primal Desire: The Struggle for Trost, Part 9",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 14,
+            "title": "Can't Look Into His Eyes Yet: Eve of the Counterattack, Part 1",
+            "type": "canon"
+        },
+        {
+            "episode_number": 15,
+            "title": "Special Operations Squad: Eve of the Counterattack, Part 2",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 16,
+            "title": "What Needs to Be Done Now: Eve of the Counterattack, Part 3",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 17,
+            "title": "Female Titan: The 57th Exterior Scouting Mission, Part 1",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 18,
+            "title": "Forest of Giant Trees: The 57th Exterior Scouting Mission, Part 2",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 19,
+            "title": "Bite: The 57th Exterior Scouting Mission, Part 3",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 20,
+            "title": "Erwin Smith: The 57th Exterior Scouting Mission, Part 4",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 21,
+            "title": "Crushing Blow: The 57th Exterior Scouting Mission, Part 5",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 22,
+            "title": "The Defeated: The 57th Exterior Scouting Mission, Part 6",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 23,
+            "title": "Smile: Assault on Stohess, Part 1",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 24,
+            "title": "Mercy: Assault on Stohess, Part 2",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 25,
+            "title": "Wall: Assault on Stohess, Part 3",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 26,
+            "title": "Beast Titan",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 27,
+            "title": "I'm Home",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 28,
+            "title": "Southwestward",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 29,
+            "title": "Soldier",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 30,
+            "title": "Historia",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 31,
+            "title": "Warrior",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 32,
+            "title": "Close Combat",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 33,
+            "title": "The Hunters",
+            "type": "Mixed cannon/Filler"
+        },
+        {
+            "episode_number": 34,
+            "title": "Opening",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 35,
+            "title": "Children",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 36,
+            "title": "Charge",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 37,
+            "title": "Scream",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 38,
+            "title": "Smoke Signal",
+            "type": "Mixed cannon/Filler"
+        },
+        {
+            "episode_number": 39,
+            "title": "Pain",
+            "type": "Mixed cannon/Filler"
+        },
+        {
+            "episode_number": 40,
+            "title": "Old Story",
+            "type": "Mixed cannon/Filler"
+        },
+        {
+            "episode_number": 41,
+            "title": "Trust",
+            "type": "Mixed cannon/Filler"
+        },
+        {
+            "episode_number": 42,
+            "title": "Reply",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 43,
+            "title": "Sin",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 44,
+            "title": "Wish",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 45,
+            "title": "Outside the Walls of Orvud District",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 46,
+            "title": "Ruler of the Walls",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 47,
+            "title": "Friends",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 48,
+            "title": "Bystander",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 49,
+            "title": "Night of the Battle to Retake the Wall",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 50,
+            "title": "The Town Where Everything Began",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 51,
+            "title": "Thunder Spears",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 52,
+            "title": "Descent",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 53,
+            "title": "Perfect Game",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 54,
+            "title": "Hero",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 55,
+            "title": "Midnight Sun",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 56,
+            "title": "The Basement",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 57,
+            "title": "That Day",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 58,
+            "title": "Attack Titan",
+            "type": "Mixed canon/Filler"
+        },
+        {
+            "episode_number": 59,
+            "title": "The Other Side of the Wall",
+            "type": "Mixed canon/Filler"
+        },
+        {
+            "episode_number": 60,
+            "title": "The Other Side of the Sea",
+            "type": "Mixed canon/Filler"
+        },
+        {
+            "episode_number": 61,
+            "title": "Midnight Train",
+            "type": "Mixed canon/Filler"
+        },
+        {
+            "episode_number": 62,
+            "title": "The Door of Hope",
+            "type": "Mixed canon/Filler"
+        },
+        {
+            "episode_number": 63,
+            "title": "From One Hand to Another",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 64,
+            "title": "Declaration of War",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 65,
+            "title": "The War Hammer Titan",
+            "type": "canon"
+        },
+        {
+            "episode_number": 66,
+            "title": "Assault",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 67,
+            "title": "Assassin's Bullet",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 68,
+            "title": "Brave Volunteers",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 69,
+            "title": "A Sound Argument",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 70,
+            "title": "Deceiver",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 71,
+            "title": "Guides",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 72,
+            "title": "Children of the Forest",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 73,
+            "title": "Savagery",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 74,
+            "title": "Sole Salvation",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 75,
+            "title": "Above and Below",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 76,
+            "title": "Judgment",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 77,
+            "title": "Sneak Attack",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 78,
+            "title": "Two Brothers",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 79,
+            "title": "Memories of the Future",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 80,
+            "title": "From You, 2000 Years Ago",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 81,
+            "title": "Thaw",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 82,
+            "title": "Sunset",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 83,
+            "title": "Pride",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 84,
+            "title": "Night of the End",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 85,
+            "title": "Traitor",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 86,
+            "title": "Retrospective",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 87,
+            "title": "The Dawn of Humanity",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 88,
+            "title": "The Final Chapters (Part One)",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 89,
+            "title": "The Final Chapters (Part Two)",
+            "type": "cannon"
+        }
+
+    ]
+}

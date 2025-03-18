@@ -1,0 +1,258 @@
+{
+    "anime_id": 25,
+    "anime_name": "Magi the Labyrinth of Magic",
+    "genres": "Adventure",
+    "total_episodes": 50,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "Aladdin and Alibaba",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 2,
+            "title": "Dungeon Suite",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 3,
+            "title": "Magician of Creation",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 4,
+            "title": "The People of the Plains",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 5,
+            "title": "Dungeon Capturer",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 6,
+            "title": "Warrior Tribe Fanalis",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 7,
+            "title": "His Name is Sinbad",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 8,
+            "title": "A Broken Promise",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 9,
+            "title": "A Prince's Duty",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 10,
+            "title": "His Name is Judar",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 11,
+            "title": "A New Visitor",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 12,
+            "title": "Determination and Separation",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 13,
+            "title": "Prince of Rebellion",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 14,
+            "title": "Alibaba's Answer",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 15,
+            "title": "Cassim's Answer",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 16,
+            "title": "Wisdom of Solomon",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 17,
+            "title": "Smile",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 18,
+            "title": "The Kingdom of Sindria",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 19,
+            "title": "The Culprit's Name is Sinbad",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 20,
+            "title": "The Two Princes",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 21,
+            "title": "Zagan Labyrinth",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 22,
+            "title": "Household of Flames",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 23,
+            "title": "Battle Cry",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 24,
+            "title": "Fall into Depravity",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 25,
+            "title": "Alibaba and Aladdin",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 26,
+            "title": "Premonition of a Journey",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 27,
+            "title": "Departure",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 28,
+            "title": "Setting Sail",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 29,
+            "title": "Pirates",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 30,
+            "title": "Mother",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 31,
+            "title": "A Kind Person",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 32,
+            "title": "Kouha Ren Appears",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 33,
+            "title": "Days of Training",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 34,
+            "title": "The Reim Empire",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 35,
+            "title": "The High Priestess",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 36,
+            "title": "The Great Rift",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 37,
+            "title": "A New Emperor",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 38,
+            "title": "Titus Alexius",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 39,
+            "title": "The Hidden Citizens",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 40,
+            "title": "The Magicians' Country",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 41,
+            "title": "Remaining Life",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 42,
+            "title": "Declaration of War",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 43,
+            "title": "Reim's Threat",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 44,
+            "title": "A Real Magi",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 45,
+            "title": "Reunion",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 46,
+            "title": "The King Vessel",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 47,
+            "title": "The Things I Want to Protect",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 48,
+            "title": "The Djinn Warriors",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 49,
+            "title": "Time of Destruction",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 50,
+            "title": "Welcome Home",
+            "type": "cannon"
+    }
+    ]
+}

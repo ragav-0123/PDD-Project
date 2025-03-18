@@ -1,0 +1,243 @@
+{
+    "anime_id": 13,
+    "anime_name": "Jujutsu Kaisen",
+    "total_episodes": 47,
+    "genres": "Action",
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "Ryomen Sukuna",
+            "type": "canon"
+        },
+        {
+            "episode_number": 2,
+            "title": "For Myself",
+            "type": "canon"
+        },
+        {
+            "episode_number": 3,
+            "title": "Girl of Steel",
+            "type": "canon"
+        },
+        {
+            "episode_number": 4,
+            "title": "Curse Womb Must Die -I-",
+            "type": "canon"
+        },
+        {
+            "episode_number": 5,
+            "title": "Curse Womb Must Die -II-",
+            "type": "canon"
+        },
+        {
+            "episode_number": 6,
+            "title": "After Rain",
+            "type": "canon"
+        },
+        {
+            "episode_number": 7,
+            "title": "Assault",
+            "type": "canon"
+        },
+        {
+            "episode_number": 8,
+            "title": "Boredom",
+            "type": "canon"
+        },
+        {
+            "episode_number": 9,
+            "title": "Small Fry and Reverse Retribution",
+            "type": "canon"
+        },
+        {
+            "episode_number": 10,
+            "title": "Idle Transfiguration",
+            "type": "canon"
+        },
+        {
+            "episode_number": 11,
+            "title": "Narrow-minded",
+            "type": "canon"
+        },
+        {
+            "episode_number": 12,
+            "title": "To You, Someday",
+            "type": "canon"
+        },
+        {
+            "episode_number": 13,
+            "title": "Tomorrow",
+            "type": "canon"
+        },
+        {
+            "episode_number": 14,
+            "title": "Kyoto Sister School Exchange Event Group Battle 0",
+            "type": "canon"
+        },
+        {
+            "episode_number": 15,
+            "title": "Kyoto Sister School Exchange Event Group Battle 1",
+            "type": "canon"
+        },
+        {
+            "episode_number": 16,
+            "title": "Kyoto Sister School Exchange Event Group Battle 2",
+            "type": "canon"
+        },
+        {
+            "episode_number": 17,
+            "title": "Kyoto Sister School Exchange Event - Group Battle 3 -",
+            "type": "canon"
+        },
+        {
+            "episode_number": 18,
+            "title": "Sage",
+            "type": "canon"
+        },
+        {
+            "episode_number": 19,
+            "title": "Black Flash",
+            "type": "canon"
+        },
+        {
+            "episode_number": 20,
+            "title": "Nonstandard",
+            "type": "canon"
+        },
+        {
+            "episode_number": 21,
+            "title": "Jujutsu Koshien",
+            "type": "canon"
+        },
+        {
+            "episode_number": 22,
+            "title": "The Origin of Blind Obedience",
+            "type": "canon"
+        },
+        {
+            "episode_number": 23,
+            "title": "The Origin of Blind Obedience Part-2",
+            "type": "canon"
+        },
+        {
+            "episode_number": 24,
+            "title": "Accomplices",
+            "type": "canon"
+        },
+        {
+            "episode_number": 25,
+            "title": "Hidden Inventory",
+            "type": "canon"
+        },
+        {
+            "episode_number": 26,
+            "title": "Hidden Inventory 2",
+            "type": "canon"
+        },
+        {
+            "episode_number": 27,
+            "title": "Hidden Inventory 3",
+            "type": "canon"
+        },
+        {
+            "episode_number": 28,
+            "title": "Hidden Inventory 4",
+            "type": "canon"
+        },
+        {
+            "episode_number": 29,
+            "title": "Premature Death",
+            "type": "canon"
+        },
+        {
+            "episode_number": 30,
+            "title": "It's Like That",
+            "type": "canon"
+        },
+        {
+            "episode_number": 31,
+            "title": "Evening Festival",
+            "type": "canon"
+        },
+        {
+            "episode_number": 32,
+            "title": "The Shibuya Incident",
+            "type": "canon"
+        },
+        {
+            "episode_number": 33,
+            "title": "Shibuya Incident - Gate Open",
+            "type": "canon"
+        },
+        {
+            "episode_number": 34,
+            "title": "Pandemonium",
+            "type": "canon"
+        },
+        {
+            "episode_number": 35,
+            "title": "Summon",
+            "type": "canon"
+        },
+        {
+            "episode_number": 36,
+            "title": "Dull Knife",
+            "type": "canon"
+        },
+        {
+            "episode_number": 37,
+            "title": "Red Scale",
+            "type": "canon"
+        },
+        {
+            "episode_number": 38,
+            "title": "Fluctuations",
+            "type": "canon"
+        },
+        {
+            "episode_number": 39,
+            "title": "Fluctuations Part-2",
+            "type": "canon"
+        },
+        {
+            "episode_number": 40,
+            "title": "Thunderclap",
+            "type": "canon"
+        },
+        {
+            "episode_number": 41,
+            "title": "Thunderclap Part-2",
+            "type": "canon"
+        },
+        {
+            "episode_number": 42,
+            "title": "Right and Wrong Part-1",
+            "type": "canon"
+        },
+        {
+            "episode_number": 43,
+            "title": "Right and Wrong Part-2",
+            "type": "canon"
+        },
+        {
+            "episode_number": 44,
+            "title": "Right and Wrong Part-3",
+            "type": "canon"
+        },
+        {
+            "episode_number": 45,
+            "title": "Transformation",
+            "type": "canon"
+        },
+        {
+            "episode_number": 46,
+            "title": "Transformation Part-2",
+            "type": "canon"
+        },
+        {
+            "episode_number": 47,
+            "title": "The Shibuya Incident - Gate Closed",
+            "type": "canon"
+        }
+    ]
+}

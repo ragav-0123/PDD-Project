@@ -1,0 +1,154 @@
+### Main Character Specifications
+
+#### Attack on Titan
+- **Name:** Eren Yeager
+- **Age:** 19
+- **Gender:** Male
+- **Race/Species:** Human/Titan Shifter
+- **Affiliation:** Survey Corps
+- **Occupation:** Soldier
+- **Anime Category:** Action, Adventure, Drama
+
+#### My Hero Academia
+- **Name:** Izuku Midoriya
+- **Age:** 16
+- **Gender:** Male
+- **Race/Species:** Human
+- **Affiliation:** U.A. High School
+- **Occupation:** Student/Hero-in-Training
+- **Anime Category:** Action, Comedy
+
+#### Demon Slayer
+- **Name:** Tanjiro Kamado
+- **Age:** 15
+- **Gender:** Male
+- **Race/Species:** Human/Demon Slayer
+- **Affiliation:** Demon Slayer Corps
+- **Occupation:** Demon Slayer
+- **Anime Category:** Action, Fantasy
+
+#### Naruto
+- **Name:** Naruto Uzumaki
+- **Age:** 17
+- **Gender:** Male
+- **Race/Species:** Human
+- **Affiliation:** Hidden Leaf Village
+- **Occupation:** Ninja
+- **Anime Category:** Action, Adventure
+
+#### Bleach
+- **Name:** Ichigo Kurosaki
+- **Age:** 17
+- **Gender:** Male
+- **Race/Species:** Human/Shinigami
+- **Affiliation:** Soul Society
+- **Occupation:** Shinigami Substitute
+- **Anime Category:** Action, Fantasy
+
+#### One Piece
+- **Name:** Monkey D. Luffy
+- **Age:** 19
+- **Gender:** Male
+- **Race/Species:** Human
+- **Affiliation:** Straw Hat Pirates
+- **Occupation:** Pirate
+- **Anime Category:** Action, Adventure
+
+#### Tokyo Ghoul
+- **Name:** Ken Kaneki
+- **Age:** 18
+- **Gender:** Male
+- **Race/Species:** Half-Ghoul
+- **Affiliation:** Anteiku
+- **Occupation:** College Student
+- **Anime Category:** Action, Drama
+
+#### Black Clover
+- **Name:** Asta
+- **Age:** 15
+- **Gender:** Male
+- **Race/Species:** Human
+- **Affiliation:** Black Bulls
+- **Occupation:** Magic Knight
+- **Anime Category:** Action, Fantasy
+
+#### Fairy Tail
+- **Name:** Natsu Dragneel
+- **Age:** 18
+- **Gender:** Male
+- **Race/Species:** Human/Dragon Slayer
+- **Affiliation:** Fairy Tail Guild
+- **Occupation:** Mage
+- **Anime Category:** Action, Fantasy
+
+#### Dragon Ball
+- **Name:** Goku
+- **Age:** 43 (Biologically younger due to training)
+- **Gender:** Male
+- **Race/Species:** Saiyan
+- **Affiliation:** Z Fighters
+- **Occupation:** Martial Artist
+- **Anime Category:** Action, Adventure
+
+#### Hunter x Hunter
+- **Name:** Gon Freecss
+- **Age:** 12
+- **Gender:** Male
+- **Race/Species:** Human
+- **Affiliation:** Hunter Association
+- **Occupation:** Hunter
+- **Anime Category:** Adventure, Action
+
+#### Fullmetal Alchemist: Brotherhood
+- **Name:** Edward Elric
+- **Age:** 16
+- **Gender:** Male
+- **Race/Species:** Human
+- **Affiliation:** State Military
+- **Occupation:** State Alchemist
+- **Anime Category:** Adventure, Drama, Fantasy
+
+#### Kaguya-sama: Love is War
+- **Name:** Kaguya Shinomiya
+- **Age:** 17
+- **Gender:** Female
+- **Race/Species:** Human
+- **Affiliation:** Shuchiin Academy
+- **Occupation:** Student Council Vice President
+- **Anime Category:** Comedy, Romance
+
+#### One Punch Man
+- **Name:** Saitama
+- **Age:** 25
+- **Gender:** Male
+- **Race/Species:** Human
+- **Affiliation:** Hero Association
+- **Occupation:** Hero
+- **Anime Category:** Comedy, Action
+
+#### Your Lie in April
+- **Name:** Kousei Arima
+- **Age:** 14
+- **Gender:** Male
+- **Race/Species:** Human
+- **Affiliation:** None
+- **Occupation:** Pianist
+- **Anime Category:** Drama, Romance
+
+#### Violet Evergarden
+- **Name:** Violet Evergarden
+- **Age:** 14
+- **Gender:** Female
+- **Race/Species:** Human
+- **Affiliation:** CH Postal Company
+- **Occupation:** Auto Memory Doll
+- **Anime Category:** Drama, Fantasy
+
+#### Log Horizon
+- **Name:** Shiroe
+- **Age:** 23
+- **Gender:** Male
+- **Race/Species:** Human
+- **Affiliation:** Log Horizon
+- **Occupation:** Strategist/Enchanter
+- **Anime Category:** Fantasy, Adventure

@@ -1,0 +1,444 @@
+{
+    "anime_id": 31,
+    "anime_name": "Haikyuu",
+    "total_episodes": 87,
+    "genres": "Drama",
+    "episodes":[
+        {
+            "episode_number": 1,
+            "title": "The End & The Beginning",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 2,
+            "title": "Karasuno High School Volleyball Club",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 3,
+            "title": "The Formidable Ally",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 4,
+            "title": "The View from the Summit",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 5,
+            "title": "A Coward's Anxiety",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 6,
+            "title": "An Interesting Team",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 7,
+            "title": "Versus the Great King",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 8,
+            "title": "He Who Is Called Ace",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 9,
+            "title": "A Toss to the Ace",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 10,
+            "title": "Yearning",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 11,
+            "title": "Decision",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 12,
+            "title": "The Neko-Karasu Reunion",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 13,
+            "title": "Rival",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 14,
+            "title": "Formidable Opponents",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 15,
+            "title": "Revival",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 16,
+            "title": "Winners and Losers",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 17,
+            "title": "The Iron Wall",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 18,
+            "title": "Guarding Your Back",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 19,
+            "title": "Conductors",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 20,
+            "title": "Oikawa Toru is Not a Genius",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 21,
+            "title": "Senpai's True Abilities",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 22,
+            "title": "Evolution",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 23,
+            "title": "The Point that Changes the Momentum",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 24,
+            "title": "Removing the Lonely King",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 25,
+            "title": "The Third Day",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 26,
+            "title": "Let's Go To Tokyo!!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 27,
+            "title": "Direct Sunlight",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 28,
+            "title": "Townsperson B",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 29,
+            "title": "Center Ace",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 30,
+            "title": "Greed",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 31,
+            "title": "Tempo",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 32,
+            "title": "Moonrise",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 33,
+            "title": "Illusionary Hero",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 34,
+            "title": "Umbrella",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 35,
+            "title": "Gears",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 36,
+            "title": "Up Above",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 37,
+            "title": "Match Begins!!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 38,
+            "title": "Simple, Pure Strength",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 39,
+            "title": "Growing Fast",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 40,
+            "title": "Playground",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 41,
+            "title": "To the Next",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 42,
+            "title": "The Fight of the Spineless",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 43,
+            "title": "The Losers",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 44,
+            "title": "The Iron Wall Can Be Constructed Any Number of Times",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 45,
+            "title": "Wiping Away",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 46,
+            "title": "The Breaker",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 47,
+            "title": "The Fight of the Previously Spineless",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 48,
+            "title": "Team",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 49,
+            "title": "Switch for the Utmost Limit",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 50,
+            "title": "Declaration of War",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 51,
+            "title": "Greetings",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 52,
+            "title": "The Threat of Left",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 53,
+            "title": "GUESS-MONSTER",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 54,
+            "title": "The Halo Around the Moon",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 55,
+            "title": "Individual VS Numbers",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 56,
+            "title": "The Chemical Change of Encounters",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 57,
+            "title": "Obsession",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 58,
+            "title": "An Annoying Guy",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 59,
+            "title": "The Volleyball Idiots",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 60,
+            "title": "The Battle of Concepts",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 61,
+            "title": "Land VS Air",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 62,
+            "title": "The Path of the Ball",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 63,
+            "title": "Self-Introduction",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 64,
+            "title": "Lost",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 65,
+            "title": "Perspective",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 66,
+            "title": "Take It Easy",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 67,
+            "title": "Hunger",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 68,
+            "title": "Enhancements",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 69,
+            "title": "Return",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 70,
+            "title": "Challenger",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 71,
+            "title": "Everyone's Night",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 72,
+            "title": "Battle Lines",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 73,
+            "title": "A Chance to Connect",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 74,
+            "title": "Vivid",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 75,
+            "title": "The Second Day",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 76,
+            "title": "Rhythm",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 77,
+            "title": "Found",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 78,
+            "title": "Broken Heart",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 79,
+            "title": "Cats vs. Monkeys",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 80,
+            "title": "Trap",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 81,
+            "title": "The Ultimate Challengers",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 82,
+            "title": "Leader",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 83,
+            "title": "Hero",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 84,
+            "title": "Pitons",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 85,
+            "title": "The Birth of the Serene King",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 86,
+            "title": "Monsters Ball",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 87,
+            "title": "The Promised Land",
+            "type": "cannon"
+    }
+
+    ]
+}

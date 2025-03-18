@@ -1,0 +1,324 @@
+{
+    "anime_id": 14,
+    "anime_name": "Demon Slayer",
+    "total_episodes": 63,
+    "genres": "Action",
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "Cruelty",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 2,
+            "title": "Trainer Sakonji Urokodaki",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 3,
+            "title": "Sabito and Makomo",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 4,
+            "title": "Final Selection",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 5,
+            "title": "My Own Steel",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 6,
+            "title": "Swordsman Accompanying a Demon",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 7,
+            "title": "Muzan Kibutsuji",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 8,
+            "title": "The Smell of Enchanting Blood",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 9,
+            "title": "Temari Demon and Arrow Demon",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 10,
+            "title": "Together Forever",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 11,
+            "title": "Tsuzumi Mansion",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 12,
+            "title": "The Boar Bares Its Fangs, Zenitsu Sleeps",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 13,
+            "title": "Something More Important Than Life",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 14,
+            "title": "The House With the Wisteria Family Crest",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 15,
+            "title": "Mount Natagumo",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 16,
+            "title": "Letting Someone Else Go First",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 17,
+            "title": "You Must Master a Single Thing",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 18,
+            "title": "A Forged Bond",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 19,
+            "title": "Hinokami",
+            "type": "canon"
+        },
+        {
+            "episode_number": 20,
+            "title": "Pretend Family",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 21,
+            "title": "Against Corps Rules",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 22,
+            "title": "Master of the Mansion",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 23,
+            "title": "Hashira Meeting",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 24,
+            "title": "Rehabilitation Training",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 25,
+            "title": "Tsuguko, Kanao Tsuyuri",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 26,
+            "title": "New Mission",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 27,
+            "title": "Flame Hashira Kyojuro Rengoku",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 28,
+            "title": "Deep Sleep",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 29,
+            "title": "Should Have Been",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 30,
+            "title": "Insult",
+            "type": "Mixed cannon/Filler"
+        },
+        {
+            "episode_number": 31,
+            "title": "Move Forward!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 32,
+            "title": "Akaza",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 33,
+            "title": "Set Your Heart Ablaze",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 34,
+            "title": "Sound Hashira Tengen Uzui",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 35,
+            "title": "Infiltrating the Entertainment District",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 36,
+            "title": "What Are You?",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 37,
+            "title": "Tonight",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 38,
+            "title": "Things Are Gonna Get Real Flashy!!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 39,
+            "title": "Layered Memories",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 40,
+            "title": "Transformation",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 41,
+            "title": "Gathering",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 42,
+            "title": "Defeating an Upper Rank Demon",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 43,
+            "title": "Never Give Up",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 44,
+            "title": "No Matter How Many Lives",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 45,
+            "title": "Someone's Dream",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 46,
+            "title": "Yoriichi Type Zero",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 47,
+            "title": "A Sword from Over 300 Years Ago",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 48,
+            "title": "Thank You, Tokito",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 49,
+            "title": "Bright Red Blade",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 50,
+            "title": "Arent You Going to be a Hashira?",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 51,
+            "title": "Awful Villain",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 52,
+            "title": "The Mu in Muichiro",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 53,
+            "title": "Mist Hashira Muichiro Tokito",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 54,
+            "title": "Love Hashira Mitsuri Kanroji",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 55,
+            "title": "The Connected Bonds: Daybreak And First Light",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 56,
+            "title": "To Defeat Muzan Kibutsuji",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 57,
+            "title": "Water Hashira Giyu Tomioka's Pain",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 58,
+            "title": "Fully Recovered Tanjiro Joins the Hashira Training!!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 59,
+            "title": "To Bring a Smile to One's Face",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 60,
+            "title": "I Even Ate Demons",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 61,
+            "title": "The Strongest of the Demon Slayer Corps",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 62,
+            "title": "Stone Hashira Gyomei Himejima",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 63,
+            "title": "The Hashira Unite",
+            "type": "cannon"
+        }
+
+    ]
+}

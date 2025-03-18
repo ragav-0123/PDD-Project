@@ -1,0 +1,138 @@
+{
+    "anime_id": 29,
+    "anime_name": "Nichijou: My Ordinary Life",
+    "total_episodes": 26,
+    "genres": "Comedy",
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "Nano blows up",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 2,
+            "title": "Mio is chased by a strange girl",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 3,
+            "title": "Nano and the Professor bring home a cat",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 4,
+            "title": "Guidance counselor Izumi Sakurai",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 5,
+            "title": "Yuko helps Ms Izumi to draw for the English test",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 6,
+            "title": "Yuko plays a spelling game with Mio",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 7,
+            "title": "Yuko daydreams about Mio's hair-bands",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 8,
+            "title": "Yuko tells jokes to Mio and Mai, but she is unable to make them laugh",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 9,
+            "title": "Mio is baking cakes",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 10,
+            "title": "Yuko ends up late...",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 11,
+            "title": "After having a cold for three days, Yuko goes to school",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 12,
+            "title": "Yuko forgets her homework",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 13,
+            "title": "The Professor learns of Nano's wish to go to school",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 14,
+            "title": "Nano starts schoo",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 15,
+            "title": "Nano wishes to remove her distinct robotic features",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 16,
+            "title": "Mio's bag..?",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 17,
+            "title": "The Professor makes a crow talk",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 18,
+            "title": "Yuko gets into a hassle at one restaurant with a complicated menu",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 19,
+            "title": "Yuko tries to help Mio perform a high jump",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 20,
+            "title": "Mio tries to make a comic with the help of her friends",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 21,
+            "title": "Mr. Takasaki tries to get close to Izumi",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 22,
+            "title": "The Professor and Nano force Sakamoto out for a walk",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 23,
+            "title": "Mio is made to taste fish jam",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 24,
+            "title": "Yuko shocks Mio by telling her she saw Kojiro kissing Nano",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 25,
+            "title": "Mio discovers Kojiro with Misato",
+            "type": "cannon"
+    },
+    {
+        "episode_number": 26,
+        "title": "Everyone throws a surprise party for Nano.",
+        "type": "cannon"
+    }
+    ]
+}

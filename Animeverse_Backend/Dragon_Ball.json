@@ -1,0 +1,773 @@
+{
+    "anime_id": 19,
+    "anime_name": "Dragon Ball",
+    "total_episodes": 153,
+    "genres": "Action",
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "The Secret of the Dragon Balls",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 2,
+            "title": "The Emperor's Quest",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 3,
+            "title": "The Nimbus Cloud of Roshi",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 4,
+            "title": "Oolong the Terrible",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 5,
+            "title": "Yamcha the Desert Bandit",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 6,
+            "title": "Keep an Eye on the Dragon Balls",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 7,
+            "title": "The Ox King on Fire Mountain",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 8,
+            "title": "The Kamehameha Wave",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 9,
+            "title": "Boss Rabbits Magic Touch",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 10,
+            "title": "The Dragon Balls are Stolen!",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 11,
+            "title": "The Penalty is Pinball",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 12,
+            "title": "A Wish to the Eternal Dragon",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 13,
+            "title": "The Legend of Goku",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 14,
+            "title": "Gokus Rival",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 15,
+            "title": "Look Out for Launch",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 16,
+            "title": "Find That Stone!",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 17,
+            "title": "Milk Delivery",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 18,
+            "title": "The Turtle Hermit Way",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 19,
+            "title": "The Tournament Begins",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 20,
+            "title": "Elimination Round",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 21,
+            "title": "Smells Like Trouble",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 22,
+            "title": "Quarterfinals Begin",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 23,
+            "title": "Monster Beast Giran",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 24,
+            "title": "Krillin's Frantic Attack!",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 25,
+            "title": "Danger From Above",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 26,
+            "title": "The Grand Finals",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 27,
+            "title": "Number One Under the Moon?",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 28,
+            "title": "The Final Blow",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 29,
+            "title": "The Roaming Lake",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 30,
+            "title": "Pilaf and the Mystery Force",
+            "type": "filler"
+    },
+    {
+            "episode_number": 31,
+            "title": "Wedding Plans?",
+            "type": "filler"
+    },
+    {
+            "episode_number": 32,
+            "title": "The Flying Fortress - Vanished!",
+            "type": "filler"
+    },
+    {
+            "episode_number": 33,
+            "title": "The Legend of a Dragon",
+            "type": "filler"
+    },
+    {
+            "episode_number": 34,
+            "title": "Cruel General Red",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 35,
+            "title": "Cold Reception",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 36,
+            "title": "Major Metallitron",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 37,
+            "title": "Ninja Murasaki is Coming!",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 38,
+            "title": "Five Murasakis",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 39,
+            "title": "Mysterious Android No. 8",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 40,
+            "title": "Horrifying Buyon",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 41,
+            "title": "The Fall of Muscle Tower",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 42,
+            "title": "The Secret of Dr. Flappe",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 43,
+            "title": "A Trip to the City",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 44,
+            "title": "Master Thief, Hasky",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 45,
+            "title": "Danger in the Air",
+            "type": "filler"
+    },
+    {
+            "episode_number": 46,
+            "title": "Bulma's Bad Day",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 47,
+            "title": "Kame House - Found!",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 48,
+            "title": "Deep Blue Sea",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 49,
+            "title": "Roshi Surprise",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 50,
+            "title": "The Trap is Sprung!",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 51,
+            "title": "Beware of Robot",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 52,
+            "title": "The Pirate Treasure",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 53,
+            "title": "Blue, Black and Blue",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 54,
+            "title": "Escape From Pirate Cave",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 55,
+            "title": "Penguin Village",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 56,
+            "title": "Strange Visitor",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 57,
+            "title": "Arale vs. Blue",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 58,
+            "title": "The Land of Korin",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 59,
+            "title": "The Notorious Mercenary",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 60,
+            "title": "Tao Attacks!",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 61,
+            "title": "Korin Tower",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 62,
+            "title": "Sacred Water",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 63,
+            "title": "The Return of Goku",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 64,
+            "title": "The Last of Mercenary Tao",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 65,
+            "title": "Confront the Red Ribbon Army",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 66,
+            "title": "A Real Bind",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 67,
+            "title": "The End of Commander Red",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 68,
+            "title": "The Last Dragon Ball",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 69,
+            "title": "Who is Fortuneteller Baba?",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 70,
+            "title": "We Are the Five Warriors",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 71,
+            "title": "Deadly Battle",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 72,
+            "title": "Goku's Turn",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 73,
+            "title": "The Devilmite Beam",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 74,
+            "title": "The Mysterious Fifth Man",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 75,
+            "title": "The Strong Ones",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 76,
+            "title": "True Colors of the Masked Man",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 77,
+            "title": "Pilaf's Tactics",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 78,
+            "title": "The Eternal Dragon Rises",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 79,
+            "title": "Terror and Plague",
+            "type": "filler"
+    },
+    {
+            "episode_number": 80,
+            "title": "Goku vs. Sky Dragon",
+            "type": "filler"
+    },
+    {
+            "episode_number": 81,
+            "title": "Goku Goes to Demon Land",
+            "type": "filler"
+    },
+    {
+            "episode_number": 82,
+            "title": "The Rampage of InoShikaCho",
+            "type": "filler"
+    },
+    {
+            "episode_number": 83,
+            "title": "Which Way To Papaya Island?",
+            "type": "filler"
+    },
+    {
+            "episode_number": 84,
+            "title": "Rivals and Arrivals",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 85,
+            "title": "Preliminary Peril",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 86,
+            "title": "Then There Were Eight",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 87,
+            "title": "Yamcha vs. Tien",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 88,
+            "title": "Yamcha's Big Break",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 89,
+            "title": "Full-Moon Vengeance",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 90,
+            "title": "The Dodon Wave",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 91,
+            "title": "Counting Controversy!!",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 92,
+            "title": "Goku Enters the Ring",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 93,
+            "title": "Tien Shinhan vs. Jackie Chun",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 94,
+            "title": "Stepping Down",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 95,
+            "title": "Goku vs. Krillin",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 96,
+            "title": "Tail's Tale",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 97,
+            "title": "Final Match: Goku vs. Tien",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 98,
+            "title": "Victory's Edge",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 99,
+            "title": "Tien's Insurrection",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 100,
+            "title": "The Spirit Cannon",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 101,
+            "title": "The Fallen",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 102,
+            "title": "Enter King Piccolo",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 103,
+            "title": "Tambourine Attacks!",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 104,
+            "title": "Mark of the Demon",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 105,
+            "title": "Here Comes Yajirobe",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 106,
+            "title": "Terrible Tambourine",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 107,
+            "title": "Tien's Atonement",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 108,
+            "title": "Goku's Revenge",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 109,
+            "title": "Goku vs. King Piccolo",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 110,
+            "title": "Piccolo Closes In",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 111,
+            "title": "Roshi's Gambit",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 112,
+            "title": "King Piccolo's Wish",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 113,
+            "title": "Siege on Chow Castle",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 114,
+            "title": "Conquest and Power",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 115,
+            "title": "Awaken Darkness",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 116,
+            "title": "A Taste of Destiny",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 117,
+            "title": "The Ultimate Sacrifice",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 118,
+            "title": "Prelude to Vengeance",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 119,
+            "title": "Battle Cry",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 120,
+            "title": "Goku Strikes Back",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 121,
+            "title": "The Biggest Crisis",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 122,
+            "title": "Final Showdown",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 123,
+            "title": "Lost and Found",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 124,
+            "title": "Temple Above the Clouds",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 125,
+            "title": "Earth's Guardian Emerges",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 126,
+            "title": "Eternal Dragon Resurrected",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 127,
+            "title": "Quicker than Lightning",
+            "type": "filler"
+    },
+    {
+            "episode_number": 128,
+            "title": "Secret of the Woods",
+            "type": "filler"
+    },
+    {
+            "episode_number": 129,
+            "title": "The Time Room",
+            "type": "filler"
+    },
+    {
+            "episode_number": 130,
+            "title": "Goku's Doll",
+            "type": "filler"
+    },
+    {
+            "episode_number": 131,
+            "title": "Walking Their Own Ways",
+            "type": "filler"
+    },
+    {
+            "episode_number": 132,
+            "title": "Hotter than Lava",
+            "type": "filler"
+    },
+    {
+            "episode_number": 133,
+            "title": "Changes",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 134,
+            "title": "Preliminary Peril",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 135,
+            "title": "Battle of the Eight",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 136,
+            "title": "Tien Shinhan vs. Mercenary Tao",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 137,
+            "title": "Anonymous Proposal",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 138,
+            "title": "The Mysterious Hero",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 139,
+            "title": "Rematch",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 140,
+            "title": "Goku Gains Speed",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 141,
+            "title": "The Four Faces of Tien",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 142,
+            "title": "Kami vs. Piccolo",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 143,
+            "title": "Battle for the Future",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 144,
+            "title": "Super Kamehameha",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 145,
+            "title": "Junior No More",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 146,
+            "title": "Goku's Trap",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 147,
+            "title": "Goku Hangs On",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 148,
+            "title": "The Victor",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 149,
+            "title": "Dress in Flames",
+            "type": "filler"
+    },
+    {
+            "episode_number": 150,
+            "title": "The Fire-Eater",
+            "type": "filler"
+    },
+    {
+            "episode_number": 151,
+            "title": "Outrageous Octagon",
+            "type": "filler"
+    },
+    {
+            "episode_number": 152,
+            "title": "Mystery of the Dark World",
+            "type": "filler"
+    },
+    {
+            "episode_number": 153,
+            "title": "The End, The Beginning",
+            "type": "filler"
+    }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "anime_id": 7,
+    "anime_name": "Violet Evergarden",
+    "genres": "Drama",
+    "total_episodes": 13,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "I Love You and Auto Memory Dolls",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 2,
+            "title": "Never Coming Back",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 3,
+            "title": "May You Be an Exemplary Auto Memory Doll",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 4,
+            "title": "You Won't be a Tool, but a Person Worthy of that Name",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 5,
+            "title": "You Write Letters That Bring People Together?",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 6,
+            "title": "Somewhere, Under a Starry Sky",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 7,
+            "title": "A Playwright with Writer's Block and a Tragic Past",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 8,
+            "title": "Army Soldier",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 9,
+            "title": "Violet Evergarden",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 10,
+            "title": "Loved Ones Will Always Watch Over You",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 11,
+            "title": "I Don't Want Anybody Else to Die",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 12,
+            "title": "The Major's Brother's Order",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 13,
+            "title": "Auto Memoir Doll and I Love You",
+            "type": "cannon"
+        }
+    ]
+}

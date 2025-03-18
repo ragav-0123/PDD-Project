@@ -1,0 +1,68 @@
+{
+    "anime_id": 9,
+    "anime_name": "Sweetness and Lightning",
+    "genres": "Drama",
+    "total_episodes": 12,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "Uniforms and Pot Rice",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 2,
+            "title": "Pork Soup and Restaurant Lights",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 3,
+            "title": "Tsumugi and the Long Awaited Hamburg Steak",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 4,
+            "title": "Hated Vegetables and Bits in Gratin",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 5,
+            "title": "A Day Off and Special Doughnuts",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 6,
+            "title": "A Gyoza Party with Friends",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 7,
+            "title": "Gohei Mochi and a Grand Adventure",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 8,
+            "title": "Squid and Taro Stew That's Still Yummy Tomorrow",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 9,
+            "title": "Our Family's At-Home Curry",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 10,
+            "title": "Summer Vacation, Kitty, and Aji",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 11,
+            "title": "A Play and Sweet Potato Crêpes",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 12,
+            "title": "Okonomiyaki Filled with Affection",
+            "type": "cannon"
+        }
+    ]
+}

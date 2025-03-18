@@ -1,0 +1,975 @@
+{
+    "anime_id": 41,
+    "anime_name": "Inuyasha",
+    "genres": "Fantasy",
+    "total_episodes": 193,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "The Girl Who Overcame Time...and the Boy Who Was Just Overcome",
+            "type": "canon"
+        },
+        {
+            "episode_number": 2,
+            "title": "Seekers of the Sacred Jewel",
+            "type": "canon"
+          },
+          {
+            "episode_number": 3,
+            "title": "Down the Rabbit Hole and Back Again",
+            "type": "canon"
+          },
+          {
+            "episode_number": 4,
+            "title": "Yura of the Demon-Hair",
+            "type": "canon"
+          },
+          {
+            "episode_number": 5,
+            "title": "Aristocratic Assassin, Sesshomaru",
+            "type": "canon"
+          },
+          {
+            "episode_number": 6,
+            "title": "Tetsusaiga, the Phantom Sword",
+            "type": "canon"
+          },
+          {
+            "episode_number": 7,
+            "title": "Showdown! Inuyasha Vs. Sesshomaru",
+            "type": "canon"
+          },
+          {
+            "episode_number": 8,
+            "title": "The Toad Who Would Be Prince",
+            "type": "canon"
+          },
+          {
+            "episode_number": 9,
+            "title": "Shippo and the Thunder Brothers",
+            "type": "canon"
+          },
+          {
+            "episode_number": 10,
+            "title": "Phantom Showdown: The Thunder Brothers Vs. Tetsusaiga",
+            "type": "canon"
+          },
+          {
+            "episode_number": 11,
+            "title": "Terror of the Ancient Noh Mask",
+            "type": "canon"
+          },
+          {
+            "episode_number": 12,
+            "title": "The Soul Piper and the Mischievous Little Soul",
+            "type": "canon"
+          },
+          {
+            "episode_number": 13,
+            "title": "The Mystery of the New Moon and the Black-haired Inuyasha",
+            "type": "canon"
+          },
+          {
+            "episode_number": 14,
+            "title": "Kikyo's Stolen Ashes",
+            "type": "canon"
+          },
+          {
+            "episode_number": 15,
+            "title": "Return of the Tragic Priestess, Kikyo",
+            "type": "canon"
+          },
+          {
+            "episode_number": 16,
+            "title": "Mystical Hand of the Amorous Monk, Miroku",
+            "type": "canon"
+          },
+          {
+            "episode_number": 17,
+            "title": "The Cursed Ink of the Hell-Painter",
+            "type": "canon"
+          },
+          {
+            "episode_number": 18,
+            "title": "Naraku and Sesshomaru Join Forces",
+            "type": "canon"
+          },
+          {
+            "episode_number": 19,
+            "title": "Go Back to Your Own Time, Kagome!",
+            "type": "canon"
+          },
+          {
+            "episode_number": 20,
+            "title": "Despicable Villain! The Mystery of Onigumo!",
+            "type": "canon"
+          },
+          {
+            "episode_number": 21,
+            "title": "Naraku's True Identity Unveiled",
+            "type": "canon"
+          },
+          {
+            "episode_number": 22,
+            "title": "A Wicked Smile: Kikyo's Wandering Soul",
+            "type": "canon"
+          },
+          {
+            "episode_number": 23,
+            "title": "Kagome's Voice and Kikyo's Kiss",
+            "type": "canon"
+          },
+          {
+            "episode_number": 24,
+            "title": "Enter Sango, the Demon Slayer",
+            "type": "canon"
+          },
+          {
+            "episode_number": 25,
+            "title": "Naraku's Insidious Plot",
+            "type": "canon"
+          },
+          {
+            "episode_number": 26,
+            "title": "The Secret of the Sacred Jewel Revealed!",
+            "type": "canon"
+          },
+          {
+            "episode_number": 27,
+            "title": "The Lake of the Evil Water God",
+            "type": "canon"
+          },
+          {
+            "episode_number": 28,
+            "title": "Miroku Falls Into a Dangerous Trap",
+            "type": "canon"
+          },
+          {
+            "episode_number": 29,
+            "title": "Sango's Suffering and Kohaku's Life",
+            "type": "canon"
+          },
+          {
+            "episode_number": 30,
+            "title": "Tetsusaiga is Stolen! Showdown At Naraku's Castle!",
+            "type": "canon"
+          },
+          {
+            "episode_number": 31,
+            "title": "Jinenji, Kind Yet Sad",
+            "type": "canon"
+          },
+          {
+            "episode_number": 32,
+            "title": "Kikyo and Inuyasha, Into the Miasma",
+            "type": "canon"
+          },
+          {
+            "episode_number": 33,
+            "title": "Kikyo, Captured by Naraku",
+            "type": "canon"
+          },
+          {
+            "episode_number": 34,
+            "title": "Tetsusaiga and Tenseiga",
+            "type": "canon"
+          },
+          {
+            "episode_number": 35,
+            "title": "The True Owner of the Great Sword!",
+            "type": "canon"
+          },
+          {
+            "episode_number": 36,
+            "title": "Kagome Kidnapped by Koga, the Wolf Demon!",
+            "type": "canon"
+          },
+          {
+            "episode_number": 37,
+            "title": "The Man Who Fell In Love With Kagome!",
+            "type": "canon"
+          },
+          {
+            "episode_number": 38,
+            "title": "Two Hearts, One Mind",
+            "type": "canon"
+          },
+          {
+            "episode_number": 39,
+            "title": "Trapped In A Duel To The Death!",
+            "type": "canon"
+          },
+          {
+            "episode_number": 40,
+            "title": "The Deadly Trap of Kagura the Wind Sorceress!",
+            "type": "canon"
+          },
+          {
+            "episode_number": 41,
+            "title": "Kagura's Dance and Kanna's Mirror",
+            "type": "canon"
+          },
+          {
+            "episode_number": 42,
+            "title": "The Wind Scar Fails",
+            "type": "canon"
+          },
+          {
+            "episode_number": 43,
+            "title": "Tetsusaiga Breaks",
+            "type": "canon"
+          },
+          {
+            "episode_number": 44,
+            "title": "Kaijinbo's Evil Sword",
+            "type": "canon"
+          },
+          {
+            "episode_number": 45,
+            "title": "Sesshomaru Wields Tokijin",
+            "type": "canon"
+          },
+          {
+            "episode_number": 46,
+            "title": "Juromaru and Kageromaru",
+            "type": "canon"
+          },
+          {
+            "episode_number": 47,
+            "title": "Onigumo's Heart Still Beats Within Naraku",
+            "type": "canon"
+          },
+          {
+            "episode_number": 48,
+            "title": "Return to the Place Where We First Met",
+            "type": "canon"
+          },
+          {
+            "episode_number": 49,
+            "title": "Kohaku's Lost Memory",
+            "type": "canon"
+          },
+          {
+            "episode_number": 50,
+            "title": "That Unforgettable Face!",
+            "type": "canon"
+          },
+          {
+            "episode_number": 51,
+            "title": "Inuyasha's Soul, Devoured",
+            "type": "canon"
+          },
+          {
+            "episode_number": 52,
+            "title": "The Demon's True Nature",
+            "type": "canon"
+          },
+          {
+            "episode_number": 53,
+            "title": "Father's Old Enemy: Ryukotsusei",
+            "type": "canon"
+          },
+          {
+            "episode_number": 54,
+            "title": "The Backlash Wave: Tetsusaiga's Ultimate Technique",
+            "type": "canon"
+          },
+          {
+            "episode_number": 55,
+            "title": "The Stone Flower and Shippo's First Love",
+            "type": "canon"
+          },
+          {
+            "episode_number": 56,
+            "title": "Temptress In The Mist",
+            "type": "canon"
+          },
+          {
+            "episode_number": 57,
+            "title": "Fateful Night in Togenkyo, Part 1",
+            "type": "canon"
+          },
+          {
+            "episode_number": 58,
+            "title": "Fateful Night in Togenkyo, Part 2",
+            "type": "canon"
+          },
+          {
+            "episode_number": 59,
+            "title": "The Beautiful Sister Apprentices",
+            "type": "filler"
+          },
+          {
+            "episode_number": 60,
+            "title": "The 50 Year-Old Curse Of The Dark Priestess",
+            "type": "canon"
+          },
+          {
+            "episode_number": 61,
+            "title": "Kikyo and the Dark Priestess",
+            "type": "canon"
+          },
+          {
+            "episode_number": 62,
+            "title": "Tsubaki's Unrelenting Evil Spell",
+            "type": "canon"
+          },
+          {
+            "episode_number": 63,
+            "title": "The Red and White Priestesses",
+            "type": "filler"
+          },
+          {
+            "episode_number": 64,
+            "title": "Giant Ogre of the Forbidden Tower",
+            "type": "filler"
+          },
+          {
+            "episode_number": 65,
+            "title": "Farewell Days of My Youth",
+            "type": "filler"
+          },
+          {
+            "episode_number": 66,
+            "title": "Narakus Barrier: Kagura's Decision",
+            "type": "canon"
+          },
+          {
+            "episode_number": 67,
+            "title": "The Howling Wind of Betrayal",
+            "type": "canon"
+          },
+          {
+            "episode_number": 68,
+            "title": "Shippo Gets an Angry Challenge",
+            "type": "filler"
+          },
+          {
+            "episode_number": 69,
+            "title": "Terror of the Faceless Man",
+            "type": "canon"
+          },
+          {
+            "episode_number": 70,
+            "title": "Onigumo's Memory Restored",
+            "type": "canon"
+          },
+          {
+            "episode_number": 71,
+            "title": "Three-Sided Battle to the Death",
+            "type": "canon"
+          },
+          {
+            "episode_number": 72,
+            "title": "Totosai's Rigid Training",
+            "type": "filler"
+          },
+          {
+            "episode_number": 73,
+            "title": "Shiori's Family and Inuyasha's Feelings",
+            "type": "canon"
+          },
+          {
+            "episode_number": 74,
+            "title": "The Red Tetsusaiga Breaks the Barrier!",
+            "type": "canon"
+          },
+          {
+            "episode_number": 75,
+            "title": "The Plot of the Panther Devas",
+            "type": "filler"
+          },
+          {
+            "episode_number": 76,
+            "title": "Target: Sesshomaru and Inuyasha",
+            "type": "filler"
+          },
+          {
+            "episode_number": 77,
+            "title": "The Panther Tribe and the Two Swords of the Fang",
+            "type": "filler"
+          },
+          {
+            "episode_number": 78,
+            "title": "Only You, Sango",
+            "type": "filler"
+          },
+          {
+            "episode_number": 79,
+            "title": "Jaken's Plan to Steal Tetsusaiga",
+            "type": "filler"
+          },
+          {
+            "episode_number": 80,
+            "title": "Sesshomaru and the Abducted Rin",
+            "type": "canon"
+          },
+          {
+            "episode_number": 81,
+            "title": "Vanishing Point: Naraku Disappears",
+            "type": "canon"
+          },
+          {
+            "episode_number": 82,
+            "title": "Gap Between the Ages",
+            "type": "canon"
+          },
+          {
+            "episode_number": 83,
+            "title": "The Female Wolf Demon and the Lunar Rainbow Promise",
+            "type": "canon"
+          },
+          {
+            "episode_number": 84,
+            "title": "Koga's Bride-to-Be",
+            "type": "canon"
+          },
+          {
+            "episode_number": 85,
+            "title": "The Evil Within Demon's Head Castle",
+            "type": "canon"
+          },
+          {
+            "episode_number": 86,
+            "title": "Secret of the Possessed Princess",
+            "type": "canon"
+          },
+          {
+            "episode_number": 87,
+            "title": "Kikyo's Lonely Journey",
+            "type": "canon"
+          },
+          {
+            "episode_number": 88,
+            "title": "Three Sprites of the Monkey God",
+            "type": "canon"
+          },
+          {
+            "episode_number": 89,
+            "title": "Nursing Battle of the Rival Lovers",
+            "type": "filler"
+          },
+          {
+            "episode_number": 90,
+            "title": "Sota's Brave Confession of Love",
+            "type": "filler"
+          },
+          {
+            "episode_number": 91,
+            "title": "The Suspicious Faith Healer and the Black Kirara",
+            "type": "filler"
+          },
+          {
+            "episode_number": 92,
+            "title": "Plot of the Walking Dead",
+            "type": "filler"
+          },
+          {
+            "episode_number": 93,
+            "title": "The Mysterious, Lecherous Monk",
+            "type": "filler"
+          },
+          {
+            "episode_number": 94,
+            "title": "The Sacred Jewel Maker Part 1",
+            "type": "filler"
+          },
+          {
+            "episode_number": 95,
+            "title": "The Sacred Jewel Maker Part 2",
+            "type": "filler"
+          },
+          {
+            "episode_number": 96,
+            "title": "Jaken Falls ill",
+            "type": "filler"
+          },
+          {
+            "episode_number": 97,
+            "title": "Kirara, Come Home!",
+            "type": "filler"
+          },
+          {
+            "episode_number": 98,
+            "title": "Kikyo and Kagome: Alone in a Cave",
+            "type": "filler"
+          },
+          {
+            "episode_number": 99,
+            "title": "Koga and Sesshomaru, A Dangerous Encounter",
+            "type": "filler"
+          },
+          {
+            "episode_number": 100,
+            "title": "Truth Behind the Nightmare: Battle in the Forest of Sorrow",
+            "type": "filler"
+          },
+          {
+            "episode_number": 101,
+            "title": "The Snow from Seven Years Past",
+            "type": "filler"
+          },
+          {
+            "episode_number": 102,
+            "title": "Assault on the Wolf-Demon Tribe",
+            "type": "canon"
+          },
+          {
+            "episode_number": 103,
+            "title": "The Band of Seven, Resurrected",
+            "type": "canon"
+          },
+          {
+            "episode_number": 104,
+            "title": "The Stealthy Poison User, Mukotsu",
+            "type": "canon"
+          },
+          {
+            "episode_number": 105,
+            "title": "The Ghastly Steel Machine",
+            "type": "canon"
+          },
+          {
+            "episode_number": 106,
+            "title": "Kagome, Miroku, and Sango: A Desperate Situation",
+            "type": "canon"
+          },
+          {
+            "episode_number": 107,
+            "title": "InuYasha Shows His Tears For the First Time",
+            "type": "canon"
+          },
+          {
+            "episode_number": 108,
+            "title": "The Secret of the Pure Light",
+            "type": "canon"
+          },
+          {
+            "episode_number": 109,
+            "title": "Hidden in the Mist: Onward to Mt. Hakurei",
+            "type": "canon"
+          },
+          {
+            "episode_number": 110,
+            "title": "Enter Bankotsu, The Leader of the Band of Seven",
+            "type": "canon"
+          },
+          {
+            "episode_number": 111,
+            "title": "The Big Clash: Banryu vs Wind Scar!",
+            "type": "canon"
+          },
+          {
+            "episode_number": 112,
+            "title": "Afloat on the Lake Surface: The Barrier of Hijiri Island",
+            "type": "canon"
+          },
+          {
+            "episode_number": 113,
+            "title": "The Sacred Vajra and the Mystery of the Living Buddha",
+            "type": "canon"
+          },
+          {
+            "episode_number": 114,
+            "title": "Koga's Solitary Battle",
+            "type": "canon"
+          },
+          {
+            "episode_number": 115,
+            "title": "Lured by the Black Light",
+            "type": "canon"
+          },
+          {
+            "episode_number": 116,
+            "title": "The Exposed Face of Truth",
+            "type": "canon"
+          },
+          {
+            "episode_number": 117,
+            "title": "Vanished in a River of Flames",
+            "type": "canon"
+          },
+          {
+            "episode_number": 118,
+            "title": "Into the Depths of Mt. Hakurei",
+            "type": "canon"
+          },
+          {
+            "episode_number": 119,
+            "title": "Divine Malice of the Saint",
+            "type": "canon"
+          },
+          {
+            "episode_number": 120,
+            "title": "Fare Thee Well: Jakotsu's Requiem",
+            "type": "canon"
+          },
+          {
+            "episode_number": 121,
+            "title": "Final Battle: The Last and Strongest of the Band of Seven",
+            "type": "canon"
+          },
+          {
+            "episode_number": 122,
+            "title": "The Power of Banryu! Duel to the Death on Mt. Hakurei",
+            "type": "canon"
+          },
+          {
+            "episode_number": 123,
+            "title": "Behind the Darkness - Naraku Reborn",
+            "type": "canon"
+          },
+          {
+            "episode_number": 124,
+            "title": "Farewell Kikyo, My Beloved",
+            "type": "canon"
+          },
+          {
+            "episode_number": 125,
+            "title": "The Darkness in Kagome's Heart",
+            "type": "canon"
+          },
+          {
+            "episode_number": 126,
+            "title": "Transform Heartache into Courage",
+            "type": "canon"
+          },
+          {
+            "episode_number": 127,
+            "title": "Don't Boil It! The Terrifying Dried-Up Demon",
+            "type": "canon"
+          },
+          {
+            "episode_number": 128,
+            "title": "Battle Against the Dried-Up Demons at the Cultural Festival",
+            "type": "canon"
+          },
+          {
+            "episode_number": 129,
+            "title": "Chokyukai and the Abducted Bride",
+            "type": "filler"
+          },
+          {
+            "episode_number": 130,
+            "title": "Shippo's New Technique, The Heart Scar!",
+            "type": "filler"
+          },
+          {
+            "episode_number": 131,
+            "title": "Trap of The Cursed Wall Hanging",
+            "type": "canon"
+          },
+          {
+            "episode_number": 132,
+            "title": "Miroku's Most Dangerous Confession",
+            "type": "canon"
+          },
+          {
+            "episode_number": 133,
+            "title": "The Woman Who Loved Sesshomaru Part 1",
+            "type": "filler"
+          },
+          {
+            "episode_number": 134,
+            "title": "The Woman Who Loved Sesshomaru Part 2",
+            "type": "filler"
+          },
+          {
+            "episode_number": 135,
+            "title": "The Last Banquet of Miroku's Master",
+            "type": "canon"
+          },
+          {
+            "episode_number": 136,
+            "title": "A Strange Invisible Demon Appears!",
+            "type": "filler"
+          },
+          {
+            "episode_number": 137,
+            "title": "An Ancestor Named Kagome",
+            "type": "filler"
+          },
+          {
+            "episode_number": 138,
+            "title": "Mountain of Demons: Survival of the Duo",
+            "type": "filler"
+          },
+          {
+            "episode_number": 139,
+            "title": "The Great Duel at Shoun Falls",
+            "type": "filler"
+          },
+          {
+            "episode_number": 140,
+            "title": "Eternal Love, The Naginata of Kenkon",
+            "type": "filler"
+          },
+          {
+            "episode_number": 141,
+            "title": "Entei, The Demon Horse Unleashed",
+            "type": "canon"
+          },
+          {
+            "episode_number": 142,
+            "title": "Untamed Entei and Horrible Hakudoshi",
+            "type": "canon"
+          },
+          {
+            "episode_number": 143,
+            "title": "3000 Leagues in Search of Father",
+            "type": "canon"
+          },
+          {
+            "episode_number": 144,
+            "title": "Hosenki and the Last Shard",
+            "type": "canon"
+          },
+          {
+            "episode_number": 145,
+            "title": "Bizarre Guards at the Border of the Afterlife",
+            "type": "canon"
+          },
+          {
+            "episode_number": 146,
+            "title": "The Fiery Bird Master, Princess Abi",
+            "type": "canon"
+          },
+          {
+            "episode_number": 147,
+            "title": "The Tragic Love Song of Destiny Part 1",
+            "type": "canon"
+          },
+          {
+            "episode_number": 148,
+            "title": "The Tragic Love Song of Destiny Part 2",
+            "type": "canon"
+          },
+          {
+            "episode_number": 149,
+            "title": "The Single Arrow of Chaos",
+            "type": "canon"
+          },
+          {
+            "episode_number": 150,
+            "title": "The Mysterious Light that Guides the Saint",
+            "type": "canon"
+          },
+          {
+            "episode_number": 151,
+            "title": "Kagome's Instinctive Choice",
+            "type": "canon"
+          },
+          {
+            "episode_number": 152,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 153,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 154,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 155,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 156,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 157,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 158,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 159,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 160,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 161,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 162,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 163,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 164,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 165,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 166,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 167,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 168,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 169,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 170,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 171,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 172,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 173,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 174,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 175,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 176,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 177,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 178,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 179,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 180,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 181,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 182,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 183,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 184,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 185,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 186,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 187,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 188,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 189,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 190,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 191,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 192,
+            "title": "",
+            "type": "canon"
+          },
+          {
+            "episode_number": 193,
+            "title": "",
+            "type": "canon"
+          }
+      
+
+    ]
+}

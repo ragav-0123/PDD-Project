@@ -1,0 +1,581 @@
+{
+    "anime_id": 36,
+    "anime_name": "Yu Yu Hakusho",
+    "total_episodes": 114,
+    "genres": "Fantasy",
+    "rating": "7.2",
+    "description": "Yusuke Urameshi, a teenage delinquent, finds himself dead after pushing a child out of the way of oncoming traffic. Even the Spirit World was surprised that he would sacrifice himself because of his bad personality and Yusuke is given another chance at life after realizing he wasn't supposed to die. He is brought back to life as a Spirit Detective in order to investigate paranormal activity such as ghosts and demons.",
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "Surprised to be Dead",
+            "type": "canon"
+        },
+        {
+            "episode_number": 2,
+            "title": "Koenma Appears",
+            "type": "canon"
+        },
+        {
+            "episode_number": 3,
+            "title": "Kuwabara: A Promise Between Men",
+            "type": "canon"
+        },
+        {
+            "episode_number": 4,
+            "title": "Requirements for Lovers",
+            "type": "canon"
+        },
+        {
+            "episode_number": 5,
+            "title": "Yusuke's Back",
+            "type": "canon"
+        },
+        {
+            "episode_number": 6,
+            "title": "Three Monsters",
+            "type": "canon"
+        },
+        {
+            "episode_number": 7,
+            "title": "Gouki and Kurama",
+            "type": "canon"
+        },
+        {
+            "episode_number": 8,
+            "title": "The Three Eyes of Hiei",
+            "type": "canon"
+        },
+        {
+            "episode_number": 9,
+            "title": "The Search Begins",
+            "type": "canon"
+        },
+        {
+            "episode_number": 10,
+            "title": "Kuwabara's Spirit Sword",
+            "type": "canon"
+        },
+        {
+            "episode_number": 11,
+            "title": "Hard Fights for Yusuke",
+            "type": "canon"
+        },
+        {
+            "episode_number": 12,
+            "title": "Rando Rises, Kuwabara Falls",
+            "type": "canon"
+        },
+        {
+            "episode_number": 13,
+            "title": "Yusuke vs. Rando: 99 Attacks",
+            "type": "canon"
+        },
+        {
+            "episode_number": 14,
+            "title": "The Beasts of Maze Castle",
+            "type": "canon"
+        },
+        {
+            "episode_number": 15,
+            "title": "Genbu, the Stone Beast",
+            "type": "canon"
+        },
+        {
+            "episode_number": 16,
+            "title": "Byakko, the White Tiger",
+            "type": "canon"
+        },
+        {
+            "episode_number": 17,
+            "title": "Byakko's Lair",
+            "type": "canon"
+        },
+        {
+            "episode_number": 18,
+            "title": "Seiryu, the Blue Dragon",
+            "type": "canon"
+        },
+        {
+            "episode_number": 19,
+            "title": "Suzaku, Leader of the Beasts",
+            "type": "canon"
+        },
+        {
+            "episode_number": 20,
+            "title": "Seven Ways to Die",
+            "type": "canon"
+        },
+        {
+            "episode_number": 21,
+            "title": "Yusuke's Sacrifice",
+            "type": "canon"
+        },
+        {
+            "episode_number": 22,
+            "title": "Lamenting Beauty",
+            "type": "canon"
+        },
+        {
+            "episode_number": 23,
+            "title": "The Toguro Brothers Gang",
+            "type": "canon"
+        },
+        {
+            "episode_number": 24,
+            "title": "The Deadly Triad",
+            "type": "canon"
+        },
+        {
+            "episode_number": 25,
+            "title": "Kuwabara's Fight of Love",
+            "type": "canon"
+        },
+        {
+            "episode_number": 26,
+            "title": "Toguro Returns",
+            "type": "canon"
+        },
+        {
+            "episode_number": 27,
+            "title": "The Dark Tournament Begins",
+            "type": "canon"
+        },
+        {
+            "episode_number": 28,
+            "title": "First Fight",
+            "type": "canon"
+        },
+        {
+            "episode_number": 29,
+            "title": "Flowers of Blood",
+            "type": "canon"
+        },
+        {
+            "episode_number": 30,
+            "title": "Dragon of the Darkness Flame",
+            "type": "canon"
+        },
+        {
+            "episode_number": 31,
+            "title": "Stumbling Warrior",
+            "type": "canon"
+        },
+        {
+            "episode_number": 32,
+            "title": "Knife Edge Death-Match",
+            "type": "canon"
+        },
+        {
+            "episode_number": 33,
+            "title": "A Day in Waiting",
+            "type": "canon"
+        },
+        {
+            "episode_number": 34,
+            "title": "Percentage of Victory",
+            "type": "canon"
+        },
+        {
+            "episode_number": 35,
+            "title": "Glimpse Beneath the Mask",
+            "type": "canon"
+        },
+        {
+            "episode_number": 36,
+            "title": "Ambition Destroyed: A Trial of Light",
+            "type": "canon"
+        },
+        {
+            "episode_number": 37,
+            "title": "Master of Disguise",
+            "type": "canon"
+        },
+        {
+            "episode_number": 38,
+            "title": "Kurama's Stand",
+            "type": "canon"
+        },
+        {
+            "episode_number": 39,
+            "title": "Crushing Revenge",
+            "type": "canon"
+        },
+        {
+            "episode_number": 40,
+            "title": "Jin, the Wind Master",
+            "type": "canon"
+        },
+        {
+            "episode_number": 41,
+            "title": "Reverse Decisions",
+            "type": "canon"
+        },
+        {
+            "episode_number": 42,
+            "title": "A Master of Love and Death",
+            "type": "canon"
+        },
+        {
+            "episode_number": 43,
+            "title": "The Masked Fighter Revealed",
+            "type": "canon"
+        },
+        {
+            "episode_number": 44,
+            "title": "Yusuke's Final Test",
+            "type": "canon"
+        },
+        {
+            "episode_number": 45,
+            "title": "Hiei Battles On",
+            "type": "canon"
+        },
+        {
+            "episode_number": 46,
+            "title": "Many Faces, Many Forms",
+            "type": "canon"
+        },
+        {
+            "episode_number": 47,
+            "title": "Legendary Bandit: Yoko Kurama",
+            "type": "canon"
+        },
+        {
+            "episode_number": 48,
+            "title": "The Cape of No Return",
+            "type": "canon"
+        },
+        {
+            "episode_number": 49,
+            "title": "Genkai's Strength",
+            "type": "canon"
+        },
+        {
+            "episode_number": 50,
+            "title": "Suzuka's Challenge",
+            "type": "canon"
+        },
+        {
+            "episode_number": 51,
+            "title": "Arch-Rivals",
+            "type": "canon"
+        },
+        {
+            "episode_number": 52,
+            "title": "The Death of Genkai",
+            "type": "canon"
+        },
+        {
+            "episode_number": 53,
+            "title": "Overcoming Grief",
+            "type": "canon"
+        },
+        {
+            "episode_number": 54,
+            "title": "The Beginning of the End",
+            "type": "canon"
+        },
+        {
+            "episode_number": 55,
+            "title": "The Beast Within the Dark",
+            "type": "canon"
+        },
+        {
+            "episode_number": 56,
+            "title": "Yoko's Magic",
+            "type": "canon"
+        },
+        {
+            "episode_number": 57,
+            "title": "Beneath Bui's Armor",
+            "type": "canon"
+        },
+        {
+            "episode_number": 58,
+            "title": "Wielder of the Dragon",
+            "type": "canon"
+        },
+        {
+            "episode_number": 59,
+            "title": "The Shadow of Elder Toguro",
+            "type": "canon"
+        },
+        {
+            "episode_number": 60,
+            "title": "Sakyo's Proposal",
+            "type": "canon"
+        },
+        {
+            "episode_number": 61,
+            "title": "Yusuke vs. Toguro",
+            "type": "canon"
+        },
+        {
+            "episode_number": 62,
+            "title": "Toguro's Full Power",
+            "type": "canon"
+        },
+        {
+            "episode_number": 63,
+            "title": "Yusuke's Despair",
+            "type": "canon"
+        },
+        {
+            "episode_number": 64,
+            "title": "Toguro's Desire",
+            "type": "canon"
+        },
+        {
+            "episode_number": 65,
+            "title": "Out With a Bang",
+            "type": "canon"
+        },
+        {
+            "episode_number": 66,
+            "title": "Toguro's Wish",
+            "type": "canon"
+        },
+        {
+            "episode_number": 67,
+            "title": "Return to Living World",
+            "type": "canon"
+        },
+        {
+            "episode_number": 68,
+            "title": "Setting the Trap",
+            "type": "canon"
+        },
+        {
+            "episode_number": 69,
+            "title": "The Power of Taboo",
+            "type": "canon"
+        },
+        {
+            "episode_number": 70,
+            "title": "Genkai's Ruse",
+            "type": "canon"
+        },
+        {
+            "episode_number": 71,
+            "title": "The Tunnel",
+            "type": "canon"
+        },
+        {
+            "episode_number": 72,
+            "title": "The Reader",
+            "type": "canon"
+        },
+        {
+            "episode_number": 73,
+            "title": "The Doctor's Disease",
+            "type": "canon"
+        },
+        {
+            "episode_number": 74,
+            "title": "Sleep, Doctor, Sleep",
+            "type": "canon"
+        },
+        {
+            "episode_number": 75,
+            "title": "Caught in the Rain",
+            "type": "canon"
+        },
+        {
+            "episode_number": 76,
+            "title": "Kuwabara: Awakening",
+            "type": "canon"
+        },
+        {
+            "episode_number": 77,
+            "title": "Sensui's Fall",
+            "type": "canon"
+        },
+        {
+            "episode_number": 78,
+            "title": "Divide and Conquer",
+            "type": "canon"
+        },
+        {
+            "episode_number": 79,
+            "title": "The Human Race",
+            "type": "canon"
+        },
+        {
+            "episode_number": 80,
+            "title": "Moving Target",
+            "type": "canon"
+        },
+        {
+            "episode_number": 81,
+            "title": "Let the Games Begin",
+            "type": "canon"
+        },
+        {
+            "episode_number": 82,
+            "title": "If You Could Play Forever",
+            "type": "canon"
+        },
+        {
+            "episode_number": 83,
+            "title": "Game Over",
+            "type": "canon"
+        },
+        {
+            "episode_number": 84,
+            "title": "Kurama's Anger, Gourmet's Guest",
+            "type": "canon"
+        },
+        {
+            "episode_number": 85,
+            "title": "Spirit Detective Showdown",
+            "type": "canon"
+        },
+        {
+            "episode_number": 86,
+            "title": "The Difference Maker",
+            "type": "canon"
+        },
+        {
+            "episode_number": 87,
+            "title": "Power Between the Teeth",
+            "type": "canon"
+        },
+        {
+            "episode_number": 88,
+            "title": "The True Face of Sensui",
+            "type": "canon"
+        },
+        {
+            "episode_number": 89,
+            "title": "Death of a Spirit Detective",
+            "type": "canon"
+        },
+        {
+            "episode_number": 90,
+            "title": "Attempting Revenge",
+            "type": "canon"
+        },
+        {
+            "episode_number": 91,
+            "title": "Waking the Lost",
+            "type": "canon"
+        },
+        {
+            "episode_number": 92,
+            "title": "The Proof",
+            "type": "canon"
+        },
+        {
+            "episode_number": 93,
+            "title": "Sensui's End",
+            "type": "canon"
+        },
+        {
+            "episode_number": 94,
+            "title": "Topside",
+            "type": "canon"
+        },
+        {
+            "episode_number": 95,
+            "title": "Yusuke's Destiny",
+            "type": "canon"
+        },
+        {
+            "episode_number": 96,
+            "title": "Three Strangers, Three Kings",
+            "type": "canon"
+        },
+        {
+            "episode_number": 97,
+            "title": "Departing Living World",
+            "type": "canon"
+        },
+        {
+            "episode_number": 98,
+            "title": "Return to Demon World",
+            "type": "canon"
+        },
+        {
+            "episode_number": 99,
+            "title": "Haunted by the Past",
+            "type": "canon"
+        },
+        {
+            "episode_number": 100,
+            "title": "The Secret of the Jagan",
+            "type": "canon"
+        },
+        {
+            "episode_number": 101,
+            "title": "Reunion of the Bandits",
+            "type": "canon"
+        },
+        {
+            "episode_number": 102,
+            "title": "Torn Between Identities",
+            "type": "canon"
+        },
+        {
+            "episode_number": 103,
+            "title": "Inheritance",
+            "type": "canon"
+        },
+        {
+            "episode_number": 104,
+            "title": "Every Demon for Himself",
+            "type": "canon"
+        },
+        {
+            "episode_number": 105,
+            "title": "The Preliminaries",
+            "type": "canon"
+        },
+        {
+            "episode_number": 106,
+            "title": "The Battle of Father and Son",
+            "type": "canon"
+        },
+        {
+            "episode_number": 107,
+            "title": "The Demon World Tournament Begins",
+            "type": "canon"
+        },
+        {
+            "episode_number": 108,
+            "title": "Farewell, Kurama",
+            "type": "canon"
+        },
+        {
+            "episode_number": 109,
+            "title": "Love and War",
+            "type": "canon"
+        },
+        {
+            "episode_number": 110,
+            "title": "A Reason to Fight",
+            "type": "canon"
+        },
+        {
+            "episode_number": 111,
+            "title": "Closure",
+            "type": "canon"
+        },
+        {
+            "episode_number": 112,
+            "title": "To the Future",
+            "type": "canon"
+        },
+        {
+            "episode_number": 113,
+            "title": "TWO SHOTS",
+            "type": "canon"
+        },
+        {
+            "episode_number": 114,
+            "title": "All or Nothing",
+            "type": "canon"
+        }
+
+    ]
+}

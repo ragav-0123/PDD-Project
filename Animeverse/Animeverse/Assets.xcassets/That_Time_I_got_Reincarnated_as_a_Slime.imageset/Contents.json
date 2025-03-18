@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "That_Time_I_got_Reincarnated_as_a_Slime.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

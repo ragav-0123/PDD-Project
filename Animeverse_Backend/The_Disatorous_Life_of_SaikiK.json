@@ -1,0 +1,389 @@
+{
+    "anime_id": 37,
+    "anime_name": "The Disastorous Life of Saiki K",
+    "total_episodes": 76,
+    "genres": "Comedy",
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "The Disastrous Life of a Psychic: Part 1",
+            "type": "canon"
+        },
+        {
+            "episode_number": 2,
+            "title": "The Disastrous Life of a Psychic: Part 2",
+            "type": "canon"
+        },
+        {
+            "episode_number": 3,
+            "title": "The Worst of the Worst?! Riki Nendou",
+            "type": "canon"
+        },
+        {
+            "episode_number": 4,
+            "title": "Shun Kaidou, AKA The Jet-Black Wings",
+            "type": "canon"
+        },
+        {
+            "episode_number": 5,
+            "title": "Intelligent and Beautiful! Kokomi Teruhashi",
+            "type": "canon"
+        },
+        {
+            "episode_number": 6,
+            "title": "Hot-Blooded! Dodgeball!: Part 1",
+            "type": "canon"
+        },
+        {
+            "episode_number": 7,
+            "title": "Hot-Blooded! Dodgeball!: Part 2",
+            "type": "canon"
+        },
+        {
+            "episode_number": 8,
+            "title": "Reach Him! Sign of Love",
+            "type": "canon"
+        },
+        {
+            "episode_number": 9,
+            "title": "Saiki Family Home Renovation?! Drastic Makeover!!",
+            "type": "canon"
+        },
+        {
+            "episode_number": 10,
+            "title": "Deceive! Mind Control",
+            "type": "canon"
+        },
+        {
+            "episode_number": 11,
+            "title": "A Genius Magician?! Uryoku Chouno",
+            "type": "canon"
+        },
+        {
+            "episode_number": 12,
+            "title": "Second Encounter (on TV)! Uryoku Chouno",
+            "type": "canon"
+        },
+        {
+            "episode_number": 13,
+            "title": "How Shady! Dark Reunion!",
+            "type": "canon"
+        },
+        {
+            "episode_number": 14,
+            "title": "Beachside Summer Story",
+            "type": "canon"
+        },
+        {
+            "episode_number": 15,
+            "title": "A New School Term Starts! The Melancholy of Nendou",
+            "type": "canon"
+        },
+        {
+            "episode_number": 16,
+            "title": "Please Make Me Your Apprentice!",
+            "type": "canon"
+        },
+        {
+            "episode_number": 17,
+            "title": "Psychic Medium in the Class Next Door",
+            "type": "canon"
+        },
+        {
+            "episode_number": 18,
+            "title": "Kineshi Hairo, in Search of Lumber",
+            "type": "canon"
+        },
+        {
+            "episode_number": 19,
+            "title": "Home Alone Disaster",
+            "type": "canon"
+        },
+        {
+            "episode_number": 20,
+            "title": "Crisis in Three-Month Relationship",
+            "type": "canon"
+        },
+        {
+            "episode_number": 21,
+            "title": "Escape Using an Invincible Suit of Camouflage!",
+            "type": "canon"
+        },
+        {
+            "episode_number": 22,
+            "title": "Get Fired Up! PK Academy Sports Day: Part 1",
+            "type": "canon"
+        },
+        {
+            "episode_number": 23,
+            "title": "Get Fired Up! PK Academy Sports Day: Part 2",
+            "type": "canon"
+        },
+        {
+            "episode_number": 24,
+            "title": "Get Fired Up! PK Academy Sports Day: Part 3",
+            "type": "canon"
+        },
+        {
+            "episode_number": 25,
+            "title": "Don't Catch Fire! Safety Drill!",
+            "type": "canon"
+        },
+        {
+            "episode_number": 26,
+            "title": "Enticing Premium Quality Coffee Jello",
+            "type": "canon"
+        },
+        {
+            "episode_number": 27,
+            "title": "In Order to Avoid Misfortune...",
+            "type": "canon"
+        },
+        {
+            "episode_number": 28,
+            "title": "Teruhashi's Biggest Trial...",
+            "type": "canon"
+        },
+        {
+            "episode_number": 29,
+            "title": "The Disatrous Life of Psychic Medium Reita Toritsuka",
+            "type": "canon"
+        },
+        {
+            "episode_number": 30,
+            "title": "Stop the Killer Domino Effect!",
+            "type": "canon"
+        },
+        {
+            "episode_number": 31,
+            "title": "Reign of the Small King",
+            "type": "canon"
+        },
+        {
+            "episode_number": 32,
+            "title": "∙ Frolic! Silent Night",
+            "type": "canon"
+        },
+        {
+            "episode_number": 33,
+            "title": "Noisy New Year's: Part 1",
+            "type": "canon"
+        },
+        {
+            "episode_number": 34,
+            "title": "Noisy New Year's: Part 2",
+            "type": "canon"
+        },
+        {
+            "episode_number": 35,
+            "title": "Noisy New Year's: Part 3",
+            "type": "canon"
+        },
+        {
+            "episode_number": 36,
+            "title": "The Scariest! Mr. Matsuzaki",
+            "type": "canon"
+        },
+        {
+            "episode_number": 37,
+            "title": "Chocolate Festival",
+            "type": "canon"
+        },
+        {
+            "episode_number": 38,
+            "title": "Absolutely the Worst!? Nendou's Father",
+            "type": "canon"
+        },
+        {
+            "episode_number": 39,
+            "title": "Totally Trusting! Kurumi Saiki",
+            "type": "canon"
+        },
+        {
+            "episode_number": 40,
+            "title": "Telepathy Silencer",
+            "type": "canon"
+        },
+        {
+            "episode_number": 41,
+            "title": "The Superstar Returns",
+            "type": "canon"
+        },
+        {
+            "episode_number": 42,
+            "title": "Cast the Die! An Upset in the Finals",
+            "type": "canon"
+        },
+        {
+            "episode_number": 43,
+            "title": "Second Encounter (For Real This Time)! Uryoku Chouno: Part 1",
+            "type": "canon"
+        },
+        {
+            "episode_number": 44,
+            "title": "Second Encounter (For Real This Time)! Uryoku Chouno: Part 2",
+            "type": "canon"
+        },
+        {
+            "episode_number": 45,
+            "title": "Mera's Money Situation",
+            "type": "canon"
+        },
+        {
+            "episode_number": 46,
+            "title": "Reignited! Physical Fitness Test",
+            "type": "canon"
+        },
+        {
+            "episode_number": 47,
+            "title": "Little Love Story",
+            "type": "canon"
+        },
+        {
+            "episode_number": 48,
+            "title": "The Latest Crappy Game! Olfana's Story",
+            "type": "canon"
+        },
+        {
+            "episode_number": 49,
+            "title": "Welcome Home! Mama",
+            "type": "canon"
+        },
+        {
+            "episode_number": 50,
+            "title": "The Best Way of Confessing Love?! Spirit-Summoning Technique",
+            "type": "canon"
+        },
+        {
+            "episode_number": 51,
+            "title": "Restarting! Everyday Life, As Usual/Another Christmas Challenge/First Experiences of the Year are Important/Courtside Love Game/Dessert Buffet Disaster",
+            "type": "canon"
+        },
+        {
+            "episode_number": 52,
+            "title": "Firsthand Science Fiction 1/Sup! Love Challenge/Fashion Sense Out of Stock",
+            "type": "canon"
+        },
+        {
+            "episode_number": 53,
+            "title": "Midwinter Disaster/The Saiko Conglomerate Home Visit/Come On Over to Saiko Land!/Invincible",
+            "type": "canon"
+        },
+        {
+            "episode_number": 54,
+            "title": "The Disastrous Life of Imu Rifuta/April Fools' Deceit!/Spring's Ultimate Weapon/Recycle! Trash ",
+            "type": "canon"
+        },
+        {
+            "episode_number": 55,
+            "title": "Rematch! Rifuta VS Teruhashi/Gifts of the Magi/The Lost Hamster with a Kansai Dialect/The ",
+            "type": "canon"
+        },
+        {
+            "episode_number": 56,
+            "title": "The Saiko Conglomerate's Luxurious Cruise/The Shipwreck of Saiki Kusuo 1-4",
+            "type": "canon"
+        },
+        {
+            "episode_number": 57,
+            "title": "The Shipwreck of Saiki Kusuo 5-7/The PK Academy Press Club Guillotine/Farewell! The Last Day",
+            "type": "canon"
+        },
+        {
+            "episode_number": 58,
+            "title": "A Totally Bad News Transfer Student Appears! + Escape the Aural Sight! + The Circumstances of ",
+            "type": "canon"
+        },
+        {
+            "episode_number": 59,
+            "title": "Psychics Should Exercise Extreme Caution + The Psychic Circus of Dreams + Hope You Get Well ",
+            "type": "canon"
+        },
+        {
+            "episode_number": 60,
+            "title": "Preventing a Scam! + The Saiki Family Reunion! + The Rural Mad Scientist + PK Academy",
+            "type": "canon"
+        },
+        {
+            "episode_number": 61,
+            "title": "An Ugly Bolt Out of the Blue + Conceal Your Hidden Power! + A Fight Between the Two Worst",
+            "type": "canon"
+        },
+        {
+            "episode_number": 62,
+            "title": "A Strong Declaration of Friendship + The Best Wing Girl!? + The Adventures of Riki Jr. No. 2, Small and",
+            "type": "canon"
+        },
+        {
+            "episode_number": 63,
+            "title": "Chisato Mera's Reunion + An Abnormality with Silent Cyborg + The Ultimate Spot Claimers + Preface",
+            "type": "canon"
+        },
+        {
+            "episode_number": 64,
+            "title": "The Saiko Family's Greatest Trial + Psychic Sidekicks + The Occult Club's Final Scream Scheme +",
+            "type": "canon"
+        },
+        {
+            "episode_number": 65,
+            "title": "Rebuilding the Baseball Team! + Eat Your Vegetables Too! The Yakiniku Epilogue + Dad's New",
+            "type": "canon"
+        },
+        {
+            "episode_number": 66,
+            "title": "If You're Looking for a Boyfriend... + The Best Present for a Beloved Sister + The Spirit Medium",
+            "type": "canon"
+        },
+        {
+            "episode_number": 67,
+            "title": "He's Back! The Brother's Five Directives + Let's Go to the Zoo! + The Disastrous Work of a New Manga",
+            "type": "canon"
+        },
+        {
+            "episode_number": 68,
+            "title": "Touma Akechi, the Transfer Student Who Never Shuts Up + The Transfer Student's Still Talking! + Sweet Potato Digging Disaster + Putting the Mascot Characters in Order + Metori Saiko's Listless Days",
+            "type": "canon"
+        },
+        {
+            "episode_number": 69,
+            "title": "Class Disaster + PK Academy Cultural Festival",
+            "type": "canon"
+        },
+        {
+            "episode_number": 70,
+            "title": "Impersonation via Hypnosis + High Expectations on the New, Fully Functional Mascot +",
+            "type": "canon"
+        },
+        {
+            "episode_number": 71,
+            "title": "Chronicles of the Grandparents' Travels + Returning the Favor, Toritsuka's Ascetic Fasting + A",
+            "type": "canon"
+        },
+        {
+            "episode_number": 72,
+            "title": "Choosing the Best Person to Walk Home With + Details Wanted! The Super Idol's Secret + Division of Labor + Facing the Unexpected",
+            "type": "canon"
+        },
+        {
+            "episode_number": 73,
+            "title": "Facing an Unusual Past",
+            "type": "canon"
+        },
+        {
+            "episode_number": 74,
+            "title": "Trial of the Perfect Beautiful Girl + Make Your Investigation, Psykickers! + Disaster Back from the Holidays + Remembering the Cast",
+            "type": "canon"
+        },
+        {
+            "episode_number": 75,
+            "title": "The Disastrous Life of Saiki K. Final Arc",
+            "type": "canon"
+        },
+        {
+            "episode_number": 76,
+            "title": "The End Of Saiki Kusuo",
+            "type": "canon"
+        }
+
+    ]
+}

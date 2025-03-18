@@ -1,0 +1,178 @@
+### Anime Chatbot Training Document
+
+#### 1. Attack on Titan
+User Query:  
+- "Tell me about Attack on Titan."  
+- "What is Attack on Titan about?"  
+- "Who are the main characters in Attack on Titan?"  
+
+Answer:  
+Attack on Titan (Shingeki no Kyojin) is a Japanese anime series set in a world where humanity lives inside cities surrounded by enormous walls to protect themselves from Titans, giant humanoid creatures who devour humans. The story follows Eren Yeager, Mikasa Ackerman, and Armin Arlert as they join the fight against the Titans after their hometown is destroyed.
+
+---
+
+#### 2. My Hero Academia (MHA)
+User Query:  
+- "What is My Hero Academia about?"  
+- "Who is the main character in MHA?"  
+- "Tell me about the Quirks in My Hero Academia."  
+
+Answer:  
+My Hero Academia (Boku no Hero Academia) is set in a world where most people have superpowers called "Quirks." The story follows Izuku Midoriya, a Quirkless boy who dreams of becoming a hero. After meeting his idol, All Might, he inherits the Quirk "One For All" and enrolls in U.A. High School to train as a professional hero.
+
+---
+
+#### 3. Demon Slayer
+User Query:  
+- "What is Demon Slayer about?"  
+- "Who is Tanjiro Kamado?"  
+- "Tell me about the demons in Demon Slayer."  
+
+Answer:  
+Demon Slayer (Kimetsu no Yaiba) follows Tanjiro Kamado, a kind-hearted boy who becomes a demon slayer after his family is slaughtered by demons, and his sister Nezuko is turned into a demon. The series focuses on Tanjiro's journey to avenge his family and find a cure for Nezuko.
+
+---
+
+#### 4. Naruto
+User Query:  
+- "What is Naruto about?"  
+- "Who are the main characters in Naruto?"  
+- "Tell me about the ninja villages in Naruto."  
+
+Answer:  
+Naruto is a story about Naruto Uzumaki, a young ninja who dreams of becoming the Hokage, the leader of his village. The series follows his adventures, friendships, and battles as he trains to become stronger and protect his village, Konohagakure. Key characters include Sasuke Uchiha, Sakura Haruno, and Kakashi Hatake.
+
+---
+
+#### 5. Bleach
+User Query:  
+- "What is Bleach about?"  
+- "Who is Ichigo Kurosaki?"  
+- "Tell me about the Soul Reapers in Bleach."  
+
+Answer:  
+Bleach follows Ichigo Kurosaki, a teenager who gains the powers of a Soul Reaper (Shinigami) after an encounter with Rukia Kuchiki. The series revolves around Ichigo's battles against evil spirits called Hollows and his efforts to protect the living and the dead.
+
+---
+
+#### 6. One Piece
+User Query:  
+- "What is One Piece about?"  
+- "Who is Monkey D. Luffy?"  
+- "Tell me about the Devil Fruits in One Piece."  
+
+Answer:  
+One Piece follows Monkey D. Luffy, a young pirate who dreams of finding the legendary treasure known as the One Piece and becoming the Pirate King. Along with his crew, the Straw Hat Pirates, Luffy explores the Grand Line, battles other pirates, and uncovers the mysteries of the world.
+
+---
+
+#### 7. Tokyo Ghoul
+User Query:  
+- "What is Tokyo Ghoul about?"  
+- "Who is Ken Kaneki?"  
+- "Tell me about the Ghouls in Tokyo Ghoul."  
+
+Answer:  
+Tokyo Ghoul is set in a world where Ghouls, creatures that look like humans but feed on human flesh, live among the population. The story follows Ken Kaneki, a college student who becomes a half-ghoul after an encounter with one. The series explores his struggle to adapt to his new life and the conflict between humans and Ghouls.
+
+---
+
+#### 8. Black Clover
+User Query:  
+- "What is Black Clover about?"  
+- "Who is Asta?"  
+- "Tell me about the Magic Knights in Black Clover."  
+
+Answer:  
+Black Clover follows Asta, a boy born without magic in a world where magic is everything. Despite this, Asta dreams of becoming the Wizard King. Along with his rival and friend Yuno, Asta joins the Magic Knights and embarks on adventures to protect the Clover Kingdom.
+
+---
+
+#### 9. Fairy Tail
+User Query:  
+- "What is Fairy Tail about?"  
+- "Who are the main characters in Fairy Tail?"  
+- "Tell me about the guilds in Fairy Tail."  
+
+Answer:  
+Fairy Tail follows the adventures of the Fairy Tail guild, a group of wizards who take on missions and form close bonds with each other. The main characters include Natsu Dragneel, Lucy Heartfilia, Erza Scarlet, and Happy. The series is known for its action, humor, and themes of friendship.
+
+---
+
+#### 10. Dragon Ball
+User Query:  
+- "What is Dragon Ball about?"  
+- "Who is Goku?"  
+- "Tell me about the Saiyans in Dragon Ball."  
+
+Answer:  
+Dragon Ball follows Goku, a Saiyan warrior, as he trains in martial arts and battles powerful foes to protect Earth. The series spans multiple sagas, including Dragon Ball, Dragon Ball Z, and Dragon Ball Super, and introduces iconic characters like Vegeta, Piccolo, and Frieza.
+
+---
+
+### General Queries
+User Query:  
+- "Can you recommend an anime from your database?"  
+- "What are the most popular anime in your database?"  
+- "Tell me about the anime you know."  
+
+Answer:  
+Here are some popular anime from our database:  
+1. Attack on Titan  
+2. My Hero Academia  
+3. Demon Slayer  
+4. Naruto  
+5. Bleach  
+6. One Piece  
+7. Tokyo Ghoul  
+8. Black Clover  
+9. Fairy Tail  
+10. Dragon Ball  
+
+# Understanding Anime Content Types: Canon, Filler, and Mixed Content
+
+## Canon Content
+Canon content refers to storylines and events that are directly adapted from the original source material (usually manga or light novels). These episodes:
+- Stay true to the original creator's vision and narrative
+- Advance the main plot of the series
+- Develop important character relationships and growth
+- Introduce key plot elements that impact future story arcs
+- Are considered official and essential to understanding the complete story
+
+Example: In "Naruto," episodes that follow Naruto's journey to become a ninja and his battles with the Akatsuki organization as depicted in the manga are canon content.
+
+## Filler Content
+Filler content consists of original episodes or story arcs created specifically for the anime that weren't present in the source material. These episodes:
+- Don't impact the main storyline
+- Often feature side adventures or alternative scenarios
+- May explore secondary characters or relationships
+- Can be skipped without losing understanding of the main plot
+- Are typically created to give the source material time to progress
+
+Example: In "Bleach," the Bount Arc is entirely filler content, created solely for the anime and not present in the original manga.
+
+## Mixed Canon/Filler Content
+Mixed content combines elements from both canon and filler material in the same episode or story arc. These episodes:
+- Include some events from the original source material
+- Add extra scenes, dialogues, or mini-plots not in the source
+- May expand on canon events with additional details
+- Often bridge gaps between canon story arcs
+- Can provide additional context or character development
+
+Example: In "One Piece," some episodes might follow the manga's main plot points but add extra scenes or extend fights beyond their original length to fill the episode time.
+
+## Impact on Viewing Experience
+Understanding these content types helps viewers:
+1. Decide which episodes to watch based on their preferences
+2. Follow the main story more effectively
+3. Distinguish between original creator content and anime studio additions
+4. Make informed decisions about episode selection when time is limited
+5. Appreciate both the source material and anime-original content
+
+## Common Indicators of Content Type
+Viewers can often identify content types by:
+- Checking episode guides and fan wikis
+- Noticing shifts in animation style or quality
+- Observing whether the episode advances the main plot
+- Recognizing when characters act differently from their established personalities
+- Identifying standalone episodes that don't connect to the larger narrative

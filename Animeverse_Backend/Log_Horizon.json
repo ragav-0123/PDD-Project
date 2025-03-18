@@ -1,0 +1,258 @@
+{
+    "anime_id": 34,   
+    "anime_name": "Log Horizon",
+    "genres": "Fantasy",
+    "total_episodes": 50,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "The Apocalypse",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 2,
+            "title": "The Battle of Loka",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 3,
+            "title": "The Depths of Palm",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 4,
+            "title": "Escape",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 5,
+            "title": "Return to Akiba",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 6,
+            "title": "Resolve",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 7,
+            "title": "Crescent Moon",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 8,
+            "title": "Villain in Glasses",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 9,
+            "title": "Round Table Conference",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 10,
+            "title": "Grab it in Your Hand",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 11,
+            "title": "An Invitation From Eastal",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 12,
+            "title": "The Forest of Ragranda",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 13,
+            "title": "Shield and Freedom",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 14,
+            "title": "World Fraction",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 15,
+            "title": "Attack",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 16,
+            "title": "The Return of the Goblin King",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 17,
+            "title": "A Lazy, Cowardly Princess",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 18,
+            "title": "Expeditionary Force",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 19,
+            "title": "Chase That Back",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 20,
+            "title": "Contract",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 21,
+            "title": "The Two of Us Shall Waltz",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 22,
+            "title": "Swallow and Young Starling",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 23,
+            "title": "The Sorcerer's Apprentice",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 24,
+            "title": "Chaos",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 25,
+            "title": "The Libra Festival",
+            "type": "filler"
+        },
+        {
+            "episode_number": 26,
+            "title": "Shiroe of the Northern Lands",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 27,
+            "title": "The Outlaw and Mithril Eyes",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 28,
+            "title": "The Abyssal Shaft",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 29,
+            "title": "Shattered Wings",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 30,
+            "title": "Christmas Eve",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 31,
+            "title": "A Lost Child at Dawn",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 32,
+            "title": "The Maidens of Watermaple",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 33,
+            "title": "Akiba Raid",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 34,
+            "title": "The Changing Battlefield",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 35,
+            "title": "Guild Master",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 36,
+            "title": "Retry",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 37,
+            "title": "Kunie Gold",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 38,
+            "title": "2.14 Sweet Trap",
+            "type": "filler"
+        },
+        {
+            "episode_number": 39,
+            "title": "Kanami, Go! East!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 40,
+            "title": "Journey",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 41,
+            "title": "Midday Vampire",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 42,
+            "title": "Odyssey Knights",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 43,
+            "title": "When the Concert Ends",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 44,
+            "title": "Crimson Night",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 45,
+            "title": "Birthday Song",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 46,
+            "title": "The Skylarks Take Flight",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 47,
+            "title": "Stranger",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 48,
+            "title": "Isaac and Iselus",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 49,
+            "title": "Sleep of the Eternal Moth",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 50,
+            "title": "The Pioneers",
+            "type": "cannon"
+        }
+    ]
+}

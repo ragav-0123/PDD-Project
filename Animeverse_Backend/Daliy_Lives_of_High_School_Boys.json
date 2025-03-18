@@ -1,0 +1,69 @@
+{
+    "anime_id": 30,
+    "anime_name": "Daily Lives of High School Boys",
+    "total_episodes": 12,
+    "genres": "Comedy",
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "High School Boys and After School",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 2,
+            "title": "High School Boys and the Morning Journey",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 3,
+            "title": "High School Boys and Summer Plans",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 4,
+            "title": "High School Boys and Eavesdropping",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 5,
+            "title": "High School Boys and Dubbing",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 6,
+            "title": "High School Boys and the Holy Night",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 7,
+            "title": "High School Boys and Gags",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 8,
+            "title": "High School Boys and Motoharu's Older Sister",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 9,
+            "title": "High School Boys and Older Brothers and Sisters",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 10,
+            "title": "High School Boys and Limits",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 11,
+            "title": "High School Boys and Fathers",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 12,
+            "title": "High School Girls are Funky - Demons",
+            "type": "cannon"
+    }
+
+    ]
+}

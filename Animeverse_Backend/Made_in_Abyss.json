@@ -1,0 +1,74 @@
+{
+    "anime_id": 20,
+    "anime_name": "Made in Abyss",
+    "total_episodes": 13,
+    "genres": "Adventure",
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "The City of the Great Pit",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 2,
+            "title": "Resurrection Festival",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 3,
+            "title": "Departure",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 4,
+            "title": "The Edge of the Abyss",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 5,
+            "title": "Incinerator",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 6,
+            "title": "Seeker Camp",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 7,
+            "title": "The Unmovable Sovereign",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 8,
+            "title": "Survival Training",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 9,
+            "title": "The Great Fault",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 10,
+            "title": "Poison and the Curse",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 11,
+            "title": "Nanachi",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 12,
+            "title": "The True Nature of the Curse",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 13,
+            "title": "The Challengers",
+            "type": "cannon"
+        }
+
+    ]
+}

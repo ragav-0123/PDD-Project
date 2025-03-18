@@ -1,0 +1,371 @@
+{
+    "anime_id": 38,
+    "anime_name": "The Time I got Reincarnated as a Slime",
+    "total_episodes": 72,
+    "genres": "Fantasy",
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "The Storm Dragon, Veldora",
+            "type": "canon"
+          },
+          {
+            "episode_number": 2,
+            "title": "Meeting the Goblins",
+            "type": "canon"
+          },
+          {
+            "episode_number": 3,
+            "title": "Battle at the Goblin Village",
+            "type": "canon"
+          },
+          {
+            "episode_number": 4,
+            "title": "In the Kingdom of the Dwarves",
+            "type": "canon"
+          },
+          {
+            "episode_number": 5,
+            "title": "Hero King, Gazel Dwargo",
+            "type": "canon"
+          },
+          {
+            "episode_number": 6,
+            "title": "Shizu",
+            "type": "canon"
+          },
+          {
+            "episode_number": 7,
+            "title": "Conqueror of Flames",
+            "type": "canon"
+          },
+          {
+            "episode_number": 8,
+            "title": "Inherited Will",
+            "type": "canon"
+          },
+          {
+            "episode_number": 9,
+            "title": "Attack of the Ogres",
+            "type": "canon"
+          },
+          {
+            "episode_number": 10,
+            "title": "The Orc Lord",
+            "type": "canon"
+          },
+          {
+            "episode_number": 11,
+            "title": "Gabiru Is Here!",
+            "type": "canon"
+          },
+          {
+            "episode_number": 12,
+            "title": "The Gears Spin Out of Control",
+            "type": "canon"
+          },
+          {
+            "episode_number": 13,
+            "title": "The Great Clash",
+            "type": "canon"
+          },
+          {
+            "episode_number": 14,
+            "title": "The One Who Devours All",
+            "type": "canon"
+          },
+          {
+            "episode_number": 15,
+            "title": "The Jura Forest Alliance",
+            "type": "canon"
+          },
+          {
+            "episode_number": 16,
+            "title": "Demon Lord Milim Attacks",
+            "type": "canon"
+          },
+          {
+            "episode_number": 17,
+            "title": "The Gathering",
+            "type": "canon"
+          },
+          {
+            "episode_number": 18,
+            "title": "Evil Creeps Closer",
+            "type": "canon"
+          },
+          {
+            "episode_number": 19,
+            "title": "Charybdis",
+            "type": "canon"
+          },
+          {
+            "episode_number": 20,
+            "title": "Yuuki Kagurazaka",
+            "type": "canon"
+          },
+          {
+            "episode_number": 21,
+            "title": "Shizu-san's Students",
+            "type": "canon"
+          },
+          {
+            "episode_number": 22,
+            "title": "Conquering the Labyrinth",
+            "type": "canon"
+          },
+          {
+            "episode_number": 23,
+            "title": "Saved Souls",
+            "type": "canon"
+          },
+          {
+            "episode_number": 24,
+            "title": "Black and a Mask",
+            "type": "canon"
+          },
+          {
+            "episode_number": 25,
+            "title": "Rimuru's Busy Life",
+            "type": "canon"
+          },
+          {
+            "episode_number": 26,
+            "title": "Trade with the Animal Kingdom",
+            "type": "canon"
+          },
+          {
+            "episode_number": 27,
+            "title": "Paradise, Once More",
+            "type": "canon"
+          },
+          {
+            "episode_number": 28,
+            "title": "The Scheming Kingdom of Falmuth",
+            "type": "canon"
+          },
+          {
+            "episode_number": 29,
+            "title": "S2.E5 ∙ Prelude to the Disaster",
+            "type": "canon"
+          },
+          {
+            "episode_number": 30,
+            "title": "The Beauty Makes Her Move",
+            "type": "canon"
+          },
+          {
+            "episode_number": 31,
+            "title": "Despair",
+            "type": "canon"
+          },
+          {
+            "episode_number": 32,
+            "title": "Hope",
+            "type": "canon"
+          },
+          {
+            "episode_number": 33,
+            "title": "Putting Everything on the Line",
+            "type": "filler"
+          },
+          {
+            "episode_number": 34,
+            "title": "Megiddo",
+            "type": "canon"
+          },
+          {
+            "episode_number": 35,
+            "title": "Birth of a Demon Lord",
+            "type": "canon"
+          },
+          {
+            "episode_number": 36,
+            "title": "The One Unleashed",
+            "type": "canon"
+          },
+          {
+            "episode_number": 37,
+            "title": "The Visitors",
+            "type": "canon"
+          },
+          {
+            "episode_number": 38,
+            "title": "A Meeting of Humans and Monsters",
+            "type": "canon"
+          },
+          {
+            "episode_number": 39,
+            "title": "Ramiris's Warning",
+            "type": "canon"
+          },
+          {
+            "episode_number": 40,
+            "title": "The Congress Dances",
+            "type": "filler"
+          },
+          {
+            "episode_number": 41,
+            "title": "The Eve of Battle",
+            "type": "canon"
+          },
+          {
+            "episode_number": 42,
+            "title": "The Demon Lords",
+            "type": "canon"
+          },
+          {
+            "episode_number": 43,
+            "title": "The Signal to Begin the Banquet",
+            "type": "canon"
+          },
+          {
+            "episode_number": 44,
+            "title": "On This Land Where It All Happened",
+            "type": "canon"
+          },
+          {
+            "episode_number": 45,
+            "title": "Adalman, the Index Finger",
+            "type": "canon"
+          },
+          {
+            "episode_number": 46,
+            "title": "Walpurgis",
+            "type": "canon"
+          },
+          {
+            "episode_number": 47,
+            "title": "Returning from the Brink",
+            "type": "canon"
+          },
+          {
+            "episode_number": 48,
+            "title": "Octagram",
+            "type": "canon"
+          },
+          {
+            "episode_number": 49,
+            "title": "Demons and Strategies",
+            "type": "canon"
+          },
+          {
+            "episode_number": 50,
+            "title": "The Saint's Intentions",
+            "type": "filler"
+          },
+          {
+            "episode_number": 51,
+            "title": "Peaceful Days",
+            "type": "filler"
+          },
+          {
+            "episode_number": 52,
+            "title": "Each Respective Roles",
+            "type": "Mixed canon/filler"
+          },
+          {
+            "episode_number": 53,
+            "title": "Two Sides Meeting",
+            "type": "canon"
+          },
+          {
+            "episode_number": 54,
+            "title": "Those Approaching",
+            "type": "filler"
+          },
+          {
+            "episode_number": 55,
+            "title": "Saint and Demon Clash",
+            "type": "canon"
+          },
+          {
+            "episode_number": 56,
+            "title": "Barking Up the Wrong Tree",
+            "type": "canon"
+          },
+          {
+            "episode_number": 57,
+            "title": "Seven Days Clergy's Conspiracy",
+            "type": "canon"
+          },
+          {
+            "episode_number": 58,
+            "title": "God and Demon Lord",
+            "type": "canon"
+          },
+          {
+            "episode_number": 59,
+            "title": "Reconciliation and Agreement",
+            "type": "filler"
+          },
+          {
+            "episode_number": 60,
+            "title": "Festival Preparations",
+            "type": "filler"
+          },
+          {
+            "episode_number": 61,
+            "title": "The Nations and Invitations",
+            "type": "filler"
+          },
+          {
+            "episode_number": 62,
+            "title": "Labyrinth and Storm Dragon",
+            "type": "filler"
+          },
+          {
+            "episode_number": 63,
+            "title": "Audience",
+            "type": "filler"
+          },
+          {
+            "episode_number": 64,
+            "title": "Benimaru's Ordeal",
+            "type": "canon"
+          },
+          {
+            "episode_number": 65,
+            "title": "The Lightspeed Hero",
+            "type": "canon"
+          },
+          {
+            "episode_number": 66,
+            "title": "A Throng of Visitors",
+            "type": "canon"
+          },
+          {
+            "episode_number": 67,
+            "title": "Festival Eve",
+            "type": "canon"
+          },
+          {
+            "episode_number": 68,
+            "title": "Nation's Opening Festival",
+            "type": "canon"
+          },
+          {
+            "episode_number": 69,
+            "title": "The Martial Arts Tournament",
+            "type": "canon"
+          },
+          {
+            "episode_number": 70,
+            "title": "Settling the Score with the Hero",
+            "type": "canon"
+          },
+          {
+            "episode_number": 71,
+            "title": "The Labyrinth's Grand Opening",
+            "type": "canon"
+          },
+          {
+            "episode_number": 72,
+            "title": "After the Festival",
+            "type": "canon"
+          }
+
+
+    ]
+
+}

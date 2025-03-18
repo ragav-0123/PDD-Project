@@ -1,0 +1,195 @@
+{
+    "anime_id": 28,   
+    "anime_name": "Mob Psycho 100",
+    "genres": "Comedy",
+    "total_episodes": 37,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "Self-Proclaimed Psychic: Reigen Arataka ~And Mob~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 2,
+            "title": "Doubts About Youth ~The Telepathy Club Appears~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 3,
+            "title": "An Invite to a Meeting ~Simply Put, I Just Want to Be Popular~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 4,
+            "title": "Idiots Only Event ~Kin~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 5,
+            "title": "OCHIMUSHA ~Psychic Powers and Me~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 6,
+            "title": "Discord ~To Become One~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 7,
+            "title": "Exaltation ~I've Obtained Loss~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 8,
+            "title": "The Older Brother Bows ~Destructive Intent~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 9,
+            "title": "Claw ~7th Division~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 10,
+            "title": "The Heinous Aura ~Mastermind~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 11,
+            "title": "Master ~Leader~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 12,
+            "title": "Mob and Reigen ~A Giant Tsuchinoko Appears~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 13,
+            "title": "Ripped Apart ~Someone Is Watching~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 14,
+            "title": "Urban Legends ~Encountering Rumors~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 15,
+            "title": "One Danger After Another ~Degeneration~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 16,
+            "title": "Inside ~Evil Spirit~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 17,
+            "title": "Discord ~Choices~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 18,
+            "title": "Poor, Lonely, Whitey",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 19,
+            "title": "Cornered ~True Identity~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 20,
+            "title": "Even Then ~Continue Forward~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 21,
+            "title": "Show Me What You've Got ~Band Together~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 22,
+            "title": "Collision ~Power Type~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 23,
+            "title": "Guidance ~Psychic Sensor~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 24,
+            "title": "The Battle for Social Rehabilitation ~Friendship~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 25,
+            "title": "Boss Fight ~The Final Light~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 26,
+            "title": "Future ~Career Paths~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 27,
+            "title": "Yokai Hunter Amakusa Haruaki Appears! ~The Threat of a Hundred Demons!!~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 28,
+            "title": "Getting Carried Away ~100%~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 29,
+            "title": "Divine Tree 1 ~The Founder Appears~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 30,
+            "title": "Divine Tree 2 ~Peace~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 31,
+            "title": "Divine Tree 3 ~Dimple Is~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 32,
+            "title": "Transmission 1 ~Winter Break~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 33,
+            "title": "Transmission 2 ~Encountering the Unknown~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 34,
+            "title": "Mob 1 ~Moving~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 35,
+            "title": "Mob 2 ~Rival~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 36,
+            "title": "Mob 3 ~Trauma~",
+            "type": "cannon"
+    },
+    {
+            "episode_number": 37,
+            "title": "Confession ~The Future~",
+            "type": "cannon"
+    }
+
+    ]
+
+}

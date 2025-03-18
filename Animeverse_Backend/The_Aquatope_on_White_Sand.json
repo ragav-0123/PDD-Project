@@ -1,0 +1,128 @@
+{
+    "anime_id": 33,   
+    "anime_name": "The Aquatope On White Sand",
+    "genres": "Drama",
+    "total_episodes": 24,
+    "episodes": [
+                {
+                    "episode_number": 1,
+                    "title": "The Tropical Fish Ran Away",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 2,
+                    "title": "Getting Wet Is Part of The Job",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 3,
+                    "title": "Life Begins in The Ocean",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 4,
+                    "title": "Tropical Fish in Boots",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 5,
+                    "title": "Mother Arrives",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 6,
+                    "title": "Sweets Rhapsody",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 7,
+                    "title": "Ice Cream Toast",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 8,
+                    "title": "crab crisis",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 9,
+                    "title": "Cinderella, the Spy",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 10,
+                    "title": "Abandoned Illusions",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 11,
+                    "title": " At the End of the Siege",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 12,
+                    "title": "Our Oceans are Endless",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 13,
+                    "title": "Tingaara in the Far Away Ocean",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 14,
+                    "title": "Penguin Chaser",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 15,
+                    "title": "The Great Sea Slug Debate",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 16,
+                    "title": "Shout-Out to the Tattered",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 17,
+                    "title": "Hangout Spot Kuragefuu",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 18,
+                    "title": "When The Light Shines",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 19,
+                    "title": "Goodbye, High Heels",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 20,
+                    "title": "Lost Plankton",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 21,
+                    "title": "Dreams of Blue Turtles",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 22,
+                    "title": "Ready to Return",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 23,
+                    "title": "The Future of the Aquarium",
+                    "type": "cannon"
+                },
+                {
+                    "episode_number": 24,
+                    "title": "The Aquatope on White Sand",
+                    "type": "cannon"
+                }
+    ]
+}

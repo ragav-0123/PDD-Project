@@ -1,0 +1,308 @@
+{
+    "anime_id": 3,
+    "anime_name": "Beelzebub",
+    "total_episodes": 60,
+    "genres": "Comedy",
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "I Picked Up the Devil King",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 2,
+            "title": "I Became a Gang Leader with a Child",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 3,
+            "title": "Are There Any Strong, Ruthless Men Around?",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 4,
+            "title": "There Is One Second Before the Demon Lord's Floods Burst Forth",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 5,
+            "title": "Money can buy anything",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 6,
+            "title": "The Toys from the Demon World Have Arrived / We Played Doctor",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 7,
+            "title": "The Demon Lord makes his Park Debut",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 8,
+            "title": "We Met Again",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 9,
+            "title": "Love is a Hurricaney",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 10,
+            "title": "A Disciple is Ready",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 11,
+            "title": "There was Something Money Could not Buy",
+            "type": "filler"
+        },
+        {
+            "episode_number": 12,
+            "title": "I Won't Let You Sleep Tonight",
+            "type": "filler"
+        },
+        {
+            "episode_number": 13,
+            "title": "Baby Beel: The Assessment Test / Hilda: Dear Great Demon Lord",
+            "type": "filler"
+        },
+        {
+            "episode_number": 14,
+            "title": "Is there a Special Move?",
+            "type": "filler"
+        },
+        {
+            "episode_number": 15,
+            "title": "The Delinquents Have Changed into Swimsuits",
+            "type": "Mixed cannon/Filler"
+        },
+        {
+            "episode_number": 16,
+            "title": "You're Not a Man at All, Eh?",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 17,
+            "title": "What Do You Think of Demon World Homework?",
+            "type": "Mixed cannon/Filler"
+        },
+        {
+            "episode_number": 18,
+            "title": "I Stopped Being a Gang Leader with a Child",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 19,
+            "title": "The Doctor Game",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 20,
+            "title": "Everyone Gathering",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 21,
+            "title": "Who Do You Think is Ishiyama's Strongest?",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 22,
+            "title": "The Mountainous Seclusion",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 23,
+            "title": "Honmakai",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 24,
+            "title": "Tadaimakai",
+            "type":"cannon"
+        },
+        {
+            "episode_number": 25,
+            "title": "The New Term has Started",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 26,
+            "title": "May I Call You Brother",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 27,
+            "title": "Called the Magical Girl",
+            "type": "filler"
+        },
+        {
+            "episode_number": 28,
+            "title": "Let's Try Doing Body Measurements",
+            "type": "filler"
+        },
+        {
+            "episode_number": 29,
+            "title": "What's the Rokkisei?",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 30,
+            "title": "Who Could the Rokkisei Be?",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 31,
+            "title": "The Dispute Was Not Settled",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 32,
+            "title": "What Happened Because of the Transfer Girl?",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 33,
+            "title": "There Were Scars from the Past",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 34,
+            "title": "Maids Completely Rustling",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 35,
+            "title": "The Time to Start the Match",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 36,
+            "title": "The Dispute is Finally Settled",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 37,
+            "title": "That Man Was a Sensei",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 38,
+            "title": "The Sibling Rivalry Has Begun",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 39,
+            "title": "The Older Brother Was a Crybaby",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 40,
+            "title": "The Assassins Aren't Guests",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 41,
+            "title": "What to Do in This Desperate Situation?",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 42,
+            "title": "It's Time to Train",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 43,
+            "title": "Where Did the Older Brother Disappear To?",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 44,
+            "title": "I Have to Get Stronger",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 45,
+            "title": "There's One Day and 1 Hour Left Until the Game",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 46,
+            "title": "Burn, Super Combination!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 47,
+            "title": "Sorry to Have Kept You Waiting",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 48,
+            "title": "I'm His Parent",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 49,
+            "title": "Beelzebub's New Year's Special! Beelbeel Journey to the West!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 50,
+            "title": "Today I'm Different On The Inside",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 51,
+            "title": "Komainu-sama is Watching",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 52,
+            "title": "And Then There Were No Delinquents",
+            "type": "filler"
+        },
+        {
+            "episode_number": 53,
+            "title": "Baby Beel: First Conquest / Furuichi: Fallen in Love",
+            "type": "filler"
+        },
+        {
+            "episode_number": 54,
+            "title": "Black Baby Beel Has Grown",
+            "type": "filler"
+        },
+        {
+            "episode_number": 55,
+            "title": "I Lost My Pompadour / The Great Demon Lord Has Come",
+            "type": "filler"
+        },
+        {
+            "episode_number": 56,
+            "title": "Betrayal? / The Men's Turn...?",
+            "type": "filler"
+        },
+        {
+            "episode_number": 57,
+            "title": "You Don't Eat Manjū? / You Don't Do Mixed Bathing?",
+            "type": "filler"
+        },
+        {
+            "episode_number": 58,
+            "title": "Akumano Academy Has Opened",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 59,
+            "title": "We're the Strongest",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 60,
+            "title": "I Won`t Say Goodbye",
+            "type": "filler"
+        }
+    ]
+}

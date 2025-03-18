@@ -1,0 +1,69 @@
+{
+  "originHash" : "924b16d184f86fc505fe0884b11306840b27ee1a79f55dcb8c149e35464741f1",
+  "pins" : [
+    {
+      "identity" : "chat_providers_sdk_ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zendesk/chat_providers_sdk_ios",
+      "state" : {
+        "revision" : "cd8f46c012b33fed262fe70a0bae0da88c25cbdf",
+        "version" : "5.0.0"
+      }
+    },
+    {
+      "identity" : "iosdropdown",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jriosdev/iOSDropDown.git",
+      "state" : {
+        "revision" : "945c4f1945ed37a31055e812a5ee11a3d06e88ab",
+        "version" : "0.4.0"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "277f1ab2c6664b19b4a412e32b094b201e2d5757",
+        "version" : "7.10.0"
+      }
+    },
+    {
+      "identity" : "kommunicate-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Kommunicate-io/Kommunicate-iOS-SDK.git",
+      "state" : {
+        "revision" : "5f70d3786a9840d7a511b52e495665b4b8081702",
+        "version" : "7.2.7"
+      }
+    },
+    {
+      "identity" : "kommunicatechatui-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Kommunicate-io/KommunicateChatUI-iOS-SDK.git",
+      "state" : {
+        "revision" : "375de3088bf5843f22ffafc90b7ae179d1bdb6d3",
+        "version" : "1.4.1"
+      }
+    },
+    {
+      "identity" : "kommunicatecore-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Kommunicate-io/KommunicateCore-iOS-SDK.git",
+      "state" : {
+        "revision" : "f1863e9abc4321b483be128965123e1603e50d8b",
+        "version" : "1.2.5"
+      }
+    },
+    {
+      "identity" : "swipecellkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwipeCellKit/SwipeCellKit.git",
+      "state" : {
+        "revision" : "7219cad3098637176ace311510d11467dbfb9bb0",
+        "version" : "2.7.1"
+      }
+    }
+  ],
+  "version" : 3
+}

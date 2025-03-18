@@ -1,0 +1,68 @@
+{
+    "anime_id": 5,
+    "anime_name": "Wisemans Grandchild",
+    "total_episodes": 12,
+    "genres": "Drama",
+    "episodes": [
+        {
+            "episode_number": 1,
+            "title": "A Babe in the Woods Goes to the Capital",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 2,
+            "title": "The Unconventional New Student",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 3,
+            "title": "An Emergency Arises!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 4,
+            "title": "The Name of the Instigator",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 5,
+            "title": "A Pioneering New Hero",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 6,
+            "title": "Outbreak of War and a Joint Training Exercise",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 7,
+            "title": " Let's Go to Camp!",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 8,
+            "title": " A Starlit Pledge",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 9,
+            "title": "The Grandchild, the Magic Gear, and the Engagement Party",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 10,
+            "title": "The Fall of the Empire",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 11,
+            "title": "The Mightiest Corps of Magicians Ever",
+            "type": "cannon"
+        },
+        {
+            "episode_number": 12,
+            "title": " And so, Off Into the World...",
+            "type": "cannon"
+        }
+    ]
+}
